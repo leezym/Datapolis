@@ -1,0 +1,2169 @@
+[
+    {
+        "area": "ambiente",
+        "datos": [
+            {
+                "numeracion": "1",
+                "meta": "Servicio de alumbrado público inteligente operando",
+                "cumplimiento": "100%",
+                "responsable": "Servicios Públicos"
+            },
+            {
+                "numeracion": "2",
+                "meta": "Plataforma tecnológica para la Gestión de la Economía Circular diseñada y en funcionamiento",
+                "cumplimiento": "100%",
+                "responsable": "Desarrollo Económico"
+            },
+            {
+                "numeracion": "3",
+                "meta": "Estrategias encaminadas a promover una cultura de paz interespecie y disminuir la violencia hacia los animales no humanos",
+                "cumplimiento": "100%",
+                "responsable": "Paz y Cultura Ciudadana"
+            },
+            {
+                "numeracion": "4",
+                "meta": "Estudios Técnicos para la construcción del proyecto Corredor Verde elaborados",
+                "cumplimiento": "100%",
+                "responsable": "Planeación"
+            },
+            {
+                "numeracion": "5",
+                "meta": "Humedales con planes de manejo ambiental o planes de acción en ejecución",
+                "cumplimiento": "100%",
+                "responsable": "DAGMA"
+            },
+            {
+                "numeracion": "6",
+                "meta": "Sistema Municipal de Áreas Protegidas – SIMAP, ampliado y fortalecido a través del incremento en áreas protegidas y la ejecución de los planes de majeo ambiental",
+                "cumplimiento": "100%",
+                "responsable": "DAGMA"
+            },
+            {
+                "numeracion": "7",
+                "meta": "Obras e intervenciones para la descontaminación hídrica de las fuentes superficiales, en el marco de la recuperación del río Cauca, ejecutadas",
+                "cumplimiento": "100%",
+                "responsable": "DAGMA"
+            },
+            {
+                "numeracion": "8",
+                "meta": "Canales de aguas lluvias con zonas blandas adecuadas ambiental y paisajísticamente",
+                "cumplimiento": "100%",
+                "responsable": "DAGMA"
+            },
+            {
+                "numeracion": "9",
+                "meta": "Vivero Distrital ampliado y conectado con red de viveros",
+                "cumplimiento": "100%",
+                "responsable": "DAGMA"
+            },
+            {
+                "numeracion": "10",
+                "meta": "Sistema de Gestión Ambiental Comunitario – SIGAC y Consejo Municipal de Desarrollo Rural – CMDR, operando",
+                "cumplimiento": "100%",
+                "responsable": "DAGMA"
+            },
+            {
+                "numeracion": "11",
+                "meta": "Plataforma para contrarrestar la tenencia, comercialización ilegal y el maltrato de fauna silvestre y el control de especies exóticas introducidas, implementada",
+                "cumplimiento": "100%",
+                "responsable": "DAGMA"
+            },
+            {
+                "numeracion": "12",
+                "meta": "Colectivos ambientales de gestores de educación y cultura, con enfoque diferencial y de género co-creando procesos para la reconciliación ambiental y la conservación de la estructura ecológica, operando en redes",
+                "cumplimiento": "100%",
+                "responsable": "DAGMA"
+            },
+            {
+                "numeracion": "13",
+                "meta": "Herramientas para la gestión, uso eficiente y ahorro de agua, diseñadas y en implementación",
+                "cumplimiento": "100%",
+                "responsable": "DAGMA"
+            },
+            {
+                "numeracion": "14",
+                "meta": "Centro de Promoción del Bienestar Animal Construido",
+                "cumplimiento": "100%",
+                "responsable": "DAGMA"
+            },
+            {
+                "numeracion": "15",
+                "meta": "Planta de aprovechamiento de residuos sólidos orgánicos construida y en operación",
+                "cumplimiento": "100%",
+                "responsable": "Servicios Públicos"
+            },
+            {
+                "numeracion": "16",
+                "meta": "Grandes generadores con tecnologías de aprovechamiento de residuos sólidos orgánicos aplicadas",
+                "cumplimiento": "100%",
+                "responsable": "Servicios Públicos"
+            },
+            {
+                "numeracion": "17",
+                "meta": "Sitio de recolección, transporte, transferencia, aprovechamiento y disposición final para la gestión de residuos de construcción y demolición RCD operando",
+                "cumplimiento": "100%",
+                "responsable": "Servicios Públicos"
+            },
+            {
+                "numeracion": "18",
+                "meta": "Espacios públicos impactados por el manejo inadecuado de residuos sólidos intervenidos",
+                "cumplimiento": "100%",
+                "responsable": "Servicios Públicos"
+            },
+            {
+                "numeracion": "19",
+                "meta": "Generadores de Residuos de Construcción y Demolición-RCD y Residuos Ordinarios, vinculados a un proceso de manejo eficiente y mejores prácticas en su gestión",
+                "cumplimiento": "100%",
+                "responsable": "DAGMA"
+            },
+            {
+                "numeracion": "20",
+                "meta": "Estudios para la planificación de la gestión integral de residuos sólidos, la prestación del servicio público de aseo y sus actividades complementarias elaborados",
+                "cumplimiento": "100%",
+                "responsable": "Planeación"
+            },
+            {
+                "numeracion": "21",
+                "meta": "Personas sensibilizadas en gestión de residuos sólidos con inclusión de recicladores de oficio",
+                "cumplimiento": "100%",
+                "responsable": "Servicios Públicos"
+            },
+            {
+                "numeracion": "22",
+                "meta": "Estudios de Análisis Económico e Impacto para el aprovechamiento de residuos orgánicos, inorgánicos y RCD elaborado",
+                "cumplimiento": "100%",
+                "responsable": "Desarrollo Económico"
+            },
+            {
+                "numeracion": "23",
+                "meta": "Estrategias para el fomento de la producción limpia y el consumo responsable implementadas",
+                "cumplimiento": "100%",
+                "responsable": "Desarrollo Económico"
+            },
+            {
+                "numeracion": "24",
+                "meta": "Productores agrícolas locales fortalecidos en técnicas de producción sostenible, competitividad y asociatividad",
+                "cumplimiento": "100%",
+                "responsable": "Desarrollo Económico"
+            },
+            {
+                "numeracion": "25",
+                "meta": "Entidades con programas de eficiencia energética implementados",
+                "cumplimiento": "100%",
+                "responsable": "Desarrollo Económico"
+            },
+            {
+                "numeracion": "26",
+                "meta": "Negocios verdes registrados, evaluados y promovidos",
+                "cumplimiento": "100%",
+                "responsable": "DAGMA"
+            },
+            {
+                "numeracion": "27",
+                "meta": "Obras de desarrollo urbanístico y habitabilidad, aplicando buenas prácticas ambientales y de construcción sostenible",
+                "cumplimiento": "100%",
+                "responsable": "DAGMA"
+            },
+            {
+                "numeracion": "28",
+                "meta": "Establecimientos con usos de alto impacto ambiental de controlados con medidas de mitigación ambiental",
+                "cumplimiento": "100%",
+                "responsable": "DAGMA"
+            },
+            {
+                "numeracion": "29",
+                "meta": "Medidas de acción a corto plazo del Plan integral de gestión del Cambio Climático de Santiago de Cali, ejecutadas",
+                "cumplimiento": "100%",
+                "responsable": "DAGMA"
+            },
+            {
+                "numeracion": "30",
+                "meta": "Proyectos definidos en el Plan de Manejo Ambiental del Acuífero de Cali -PMAA, priorizados y ejecutados",
+                "cumplimiento": "100%",
+                "responsable": "DAGMA"
+            },
+            {
+                "numeracion": "31",
+                "meta": "Reservorio de la planta de tratamiento de agua potable de Puerto Mallarino mantenido y con aislamiento",
+                "cumplimiento": "100%",
+                "responsable": "EMCALI"
+            },
+            {
+                "numeracion": "32",
+                "meta": "Estrategia interinstitucional para el manejo de agua residual en asentamientos humanos de desarrollo incompleto, diseñada y en implementación",
+                "cumplimiento": "100%",
+                "responsable": "DAGMA"
+            },
+            {
+                "numeracion": "33",
+                "meta": "Acciones del Programa de Aire Limpio implementadas",
+                "cumplimiento": "100%",
+                "responsable": "DAGMA"
+            },
+            {
+                "numeracion": "34",
+                "meta": "Verificaciones de Riesgos por Fenómenos de Origen Tecnológico, Socio-natural, Natural y Antrópico, realizadas Fenómenos de Origen Tecnológico, Socio-natural, Natural y Antrópico, realizadas",
+                "cumplimiento": "100%",
+                "responsable": "Gestión del Riesgo"
+            },
+            {
+                "numeracion": "35",
+                "meta": "Plan de Gestión del Riesgo de Desastres de Santiago de Cali, Ajustado",
+                "cumplimiento": "100%",
+                "responsable": "Gestión del Riesgo"
+            },
+            {
+                "numeracion": "36",
+                "meta": "Evaluación de riesgo por inundaciones pluviales y fluviales de la comuna 22, área de expansión urbana, corredor Cali- Jamundí y área suburbana de Pance, elaborada",
+                "cumplimiento": "100%",
+                "responsable": "DAGMA"
+            },
+            {
+                "numeracion": "37",
+                "meta": "Personas fortalecidas en el conocimiento de las buenas prácticas para la gestión del riesgo",
+                "cumplimiento": "100%",
+                "responsable": "Gestión del Riesgo"
+            },
+            {
+                "numeracion": "38",
+                "meta": "Guardianes del Jarillón fortalecidos en competencias de Gestión del Riesgo",
+                "cumplimiento": "100%",
+                "responsable": "Gestión del Riesgo"
+            },
+            {
+                "numeracion": "39",
+                "meta": "Plan de gestión social para el proyecto Plan Jarillón del Río Cauca y obras complementarias, implementado",
+                "cumplimiento": "100%",
+                "responsable": "Gestión del Riesgo"
+            },
+            {
+                "numeracion": "40",
+                "meta": "Estrategia de Respuesta a Emergencias, actualizada",
+                "cumplimiento": "100%",
+                "responsable": "Gestión del Riesgo"
+            },
+            {
+                "numeracion": "41",
+                "meta": "Estudio para la estructuración y creación de autoridad ambiental distrital, elaborado",
+                "cumplimiento": "100%",
+                "responsable": "DAGMA"
+            },
+            {
+                "numeracion": "42",
+                "meta": "Procesos institucionales de la autoridad ambiental, conforme a los requerimientos de las políticas institucionales y administrativas vigentes mejorados",
+                "cumplimiento": "100%",
+                "responsable": "DAGMA"
+            },
+            {
+                "numeracion": "43",
+                "meta": "Diagnóstico registral de predios del Parque Nacional Natural Farallones realizado",
+                "cumplimiento": "99%",
+                "responsable": "Vivienda Social"
+            },
+            {
+                "numeracion": "44",
+                "meta": "Estrategia para la protección de la gestión integral y uso racional de agua potable implementada",
+                "cumplimiento": "98%",
+                "responsable": "EMCALI"
+            },
+            {
+                "numeracion": "45",
+                "meta": "Obras de reforzamiento del Jarillón de Río Cauca",
+                "cumplimiento": "92%",
+                "responsable": "Gestión del Riesgo"
+            },
+            {
+                "numeracion": "46",
+                "meta": "Bocaminas activas ilegales cerradas",
+                "cumplimiento": "91%",
+                "responsable": "Seguridad y Justicia"
+            },
+            {
+                "numeracion": "47",
+                "meta": "Sistema integral de información de la gestión del riesgo, diseñado e implementado bajo Arquitectura empresarial",
+                "cumplimiento": "89%",
+                "responsable": "Gestión del Riesgo"
+            },
+            {
+                "numeracion": "48",
+                "meta": "Área de asentamientos humanos en riesgo mitigable por movimientos en masa estabilizada",
+                "cumplimiento": "86%",
+                "responsable": "Vivienda Social"
+            },
+            {
+                "numeracion": "49",
+                "meta": "Ecoparque Pance incluido en la estructura ecológica distrital y adecuado ambiental y paisajísticamente",
+                "cumplimiento": "84%",
+                "responsable": "DAGMA"
+            },
+            {
+                "numeracion": "50",
+                "meta": "Lixiviados del antiguo vertedero de Navarro tratados",
+                "cumplimiento": "82%",
+                "responsable": "Servicios Públicos"
+            },
+            {
+                "numeracion": "51",
+                "meta": "Política Pública de Ética Interespecie y Protección Animal, adoptada",
+                "cumplimiento": "80%",
+                "responsable": "DAGMA"
+            },
+            {
+                "numeracion": "52",
+                "meta": "Renovación del arbolado urbano en el marco del Plan de Silvicultura Urbana (PSU), en ejecución",
+                "cumplimiento": "78%",
+                "responsable": "DAGMA"
+            },
+            {
+                "numeracion": "53",
+                "meta": "Demoliciones de techos de áreas afectadas por asentamientos de desarrollo incompleto del Proyecto Plan Jarillón, realizadas con procesos de concertación y garantía de derechos",
+                "cumplimiento": "74%",
+                "responsable": "Infraestructura"
+            },
+            {
+                "numeracion": "54",
+                "meta": "Servicio de alumbrado público inteligente operando",
+                "cumplimiento": "100%",
+                "responsable": "Servicios Públicos"
+            },
+            {
+                "numeracion": "55",
+                "meta": "Plataforma tecnológica para la Gestión de la Economía Circular diseñada y en funcionamiento",
+                "cumplimiento": "100%",
+                "responsable": "Desarrollo Económico"
+            },
+            {
+                "numeracion": "56",
+                "meta": "Estrategias encaminadas a promover una cultura de paz interespecie y disminuir la violencia hacia los animales no humanos",
+                "cumplimiento": "100%",
+                "responsable": "Paz y Cultura Ciudadana"
+            },
+            {
+                "numeracion": "57",
+                "meta": "Estudios Técnicos para la construcción del proyecto Corredor Verde elaborados",
+                "cumplimiento": "100%",
+                "responsable": "Planeación"
+            },
+            {
+                "numeracion": "58",
+                "meta": "Humedales con planes de manejo ambiental o planes de acción en ejecución",
+                "cumplimiento": "100%",
+                "responsable": "DAGMA"
+            },
+            {
+                "numeracion": "59",
+                "meta": "Sistema Municipal de Áreas Protegidas – SIMAP, ampliado y fortalecido a través del incremento en áreas protegidas y la ejecución de los planes de majeo ambiental",
+                "cumplimiento": "100%",
+                "responsable": "DAGMA"
+            },
+            {
+                "numeracion": "60",
+                "meta": "Obras e intervenciones para la descontaminación hídrica de las fuentes superficiales, en el marco de la recuperación del río Cauca, ejecutadas",
+                "cumplimiento": "100%",
+                "responsable": "DAGMA"
+            },
+            {
+                "numeracion": "61",
+                "meta": "Canales de aguas lluvias con zonas blandas adecuadas ambiental y paisajísticamente",
+                "cumplimiento": "100%",
+                "responsable": "DAGMA"
+            },
+            {
+                "numeracion": "62",
+                "meta": "Vivero Distrital ampliado y conectado con red de viveros",
+                "cumplimiento": "100%",
+                "responsable": "DAGMA"
+            },
+            {
+                "numeracion": "63",
+                "meta": "Sistema de Gestión Ambiental Comunitario – SIGAC y Consejo Municipal de Desarrollo Rural – CMDR, operando",
+                "cumplimiento": "100%",
+                "responsable": "DAGMA"
+            },
+            {
+                "numeracion": "64",
+                "meta": "Plataforma para contrarrestar la tenencia, comercialización ilegal y el maltrato de fauna silvestre y el control de especies exóticas introducidas, implementada",
+                "cumplimiento": "100%",
+                "responsable": "DAGMA"
+            },
+            {
+                "numeracion": "65",
+                "meta": "Colectivos ambientales de gestores de educación y cultura, con enfoque diferencial y de género co-creando procesos para la reconciliación ambiental y la conservación de la estructura ecológica, operando en redes",
+                "cumplimiento": "100%",
+                "responsable": "DAGMA"
+            },
+            {
+                "numeracion": "66",
+                "meta": "Herramientas para la gestión, uso eficiente y ahorro de agua, diseñadas y en implementación",
+                "cumplimiento": "100%",
+                "responsable": "DAGMA"
+            },
+            {
+                "numeracion": "67",
+                "meta": "Centro de Promoción del Bienestar Animal Construido",
+                "cumplimiento": "100%",
+                "responsable": "DAGMA"
+            },
+            {
+                "numeracion": "68",
+                "meta": "Planta de aprovechamiento de residuos sólidos orgánicos construida y en operación",
+                "cumplimiento": "100%",
+                "responsable": "Servicios Públicos"
+            },
+            {
+                "numeracion": "69",
+                "meta": "Grandes generadores con tecnologías de aprovechamiento de residuos sólidos orgánicos aplicadas",
+                "cumplimiento": "100%",
+                "responsable": "Servicios Públicos"
+            },
+            {
+                "numeracion": "70",
+                "meta": "Sitio de recolección, transporte, transferencia, aprovechamiento y disposición final para la gestión de residuos de construcción y demolición RCD operando",
+                "cumplimiento": "100%",
+                "responsable": "Servicios Públicos"
+            },
+            {
+                "numeracion": "71",
+                "meta": "Infraestructuras para la atención, valoración y rehabilitación de la fauna silvestre y la flora, operando",
+                "cumplimiento": "67%",
+                "responsable": "DAGMA"
+            },
+            {
+                "numeracion": "72",
+                "meta": "Definir y ejecutar dos (2) estrategias de reducción de contaminación por vertimientos líquidos en el recurso hídrico",
+                "cumplimiento": "65%",
+                "responsable": "EMCALI"
+            },
+            {
+                "numeracion": "73",
+                "meta": "Plan para el fortalecimiento de Negocios Verdes formulado e implementado",
+                "cumplimiento": "65%",
+                "responsable": "Desarrollo Económico"
+            },
+            {
+                "numeracion": "74",
+                "meta": "Centro de Monitoreo Ambiental, con plataforma de vigilancia y control, construido y operando",
+                "cumplimiento": "58%",
+                "responsable": "DAGMA"
+            },
+            {
+                "numeracion": "75",
+                "meta": "Centro Integral para la Gestión del Riesgo de Emergencias y Desastres, construido",
+                "cumplimiento": "57%",
+                "responsable": "Gestión del Riesgo"
+            },
+            {
+                "numeracion": "76",
+                "meta": "Hectáreas de recarga restauradas y conservadas en las cuencas abastecedoras de EMCALI",
+                "cumplimiento": "56%",
+                "responsable": "EMCALI"
+            },
+            {
+                "numeracion": "77",
+                "meta": "Avance piloto a escala real de sistema de filtración en lecho de río, construido y en funcionamiento, en PTAP Cauca",
+                "cumplimiento": "55%",
+                "responsable": "EMCALI"
+            },
+            {
+                "numeracion": "78",
+                "meta": "Área para la gestión sostenible de las cuencas hidrográficas, a través de pago por servicios ambientales, restauración y protección de nacimientos, en conservación, con enfoque diferencial y de género",
+                "cumplimiento": "55%",
+                "responsable": "DAGMA"
+            },
+            {
+                "numeracion": "79",
+                "meta": "Estudios básicos y detallados sobre movimientos en masa ajustados",
+                "cumplimiento": "54%",
+                "responsable": "Planeación"
+            },
+            {
+                "numeracion": "80",
+                "meta": "Línea Eco como sistema integral de apoyo a la gestión ambiental, en el marco de la arquitectura empresarial, actualizada",
+                "cumplimiento": "48%",
+                "responsable": "DAGMA"
+            },
+            {
+                "numeracion": "81",
+                "meta": "Vehículos eléctricos en el Distrito adquiridos",
+                "cumplimiento": "42%",
+                "responsable": "Gestión de Bienes y Servicios"
+            },
+            {
+                "numeracion": "82",
+                "meta": "Alumbrado público inteligente implementado",
+                "cumplimiento": "36%",
+                "responsable": "Servicios Públicos"
+            },
+            {
+                "numeracion": "83",
+                "meta": "Mujeres beneficiadas con proyectos para la producción agroecológica y consumo responsables con enfoque diferencial y de género",
+                "cumplimiento": "33%",
+                "responsable": "DAGMA"
+            },
+            {
+                "numeracion": "84",
+                "meta": "Estrategia para la cooperación técnica, organizativa y de acompañamiento en la reforestación de las cuencas abastecedoras de los acueductos rurales comunitarios implementada",
+                "cumplimiento": "33%",
+                "responsable": "EMCALI"
+            },
+            {
+                "numeracion": "85",
+                "meta": "Adquisición de predios con títulos justificativo de dominio en zonas de riesgo no mitigable por inundaciones",
+                "cumplimiento": "25%",
+                "responsable": "Vivienda Social"
+            },
+            {
+                "numeracion": "86",
+                "meta": "Obras Fase III para la recuperación de la Laguna del Pondaje, terminadas",
+                "cumplimiento": "19%",
+                "responsable": "EMCALI"
+            },
+            {
+                "numeracion": "87",
+                "meta": "Plantas de Tratamiento de Agua Residual Doméstica (PTARD) mejoradas en la zona rural",
+                "cumplimiento": "18%",
+                "responsable": "Servicios Públicos"
+            },
+            {
+                "numeracion": "88",
+                "meta": "Participación en dos (2) proyectos de impacto regional para la promoción de sistema sostenibles de abastecimiento de agua y saneamiento ambiental",
+                "cumplimiento": "12%",
+                "responsable": "EMCALI"
+            },
+            {
+                "numeracion": "90",
+                "meta": "Estudios y diseños de la Planta de Tratamiento de Aguas Residuales de Sur (PTAR-S) elaborados",
+                "cumplimiento": "2%",
+                "responsable": "EMCALI"
+            },
+            {
+                "numeracion": "91",
+                "meta": "Corredores ambientales urbanos de los ríos Cañaveralejo, Meléndez, Lili y Cali; y corredor ambiental rio Cauca, diseñados y adecuados",
+                "cumplimiento": "1%",
+                "responsable": "DAGMA"
+            },
+            {
+                "numeracion": "92",
+                "meta": "Estaciones de clasificación y aprovechamiento de residuos sólidos inorgánicos operando",
+                "cumplimiento": "0%",
+                "responsable": "Servicios Públicos"
+            },
+            {
+                "numeracion": "93",
+                "meta": "Monitoreo anual de calidad ambiental (estabilidad de la masa de residuos y calidad del aire) del antiguo vertedero de Navarro",
+                "cumplimiento": "0%",
+                "responsable": "Servicios Públicos"
+            },
+            {
+                "numeracion": "94",
+                "meta": "Empresas con cambios hacia patrones de producción y consumo sostenible",
+                "cumplimiento": "0%",
+                "responsable": "DAGMA"
+            },
+            {
+                "numeracion": "95",
+                "meta": "Vehículos con control y vigilancia de emisiones en zonas priorizadas por la autoridad ambiental realizados",
+                "cumplimiento": "0%",
+                "responsable": "Movilidad"
+            },
+            {
+                "numeracion": "96",
+                "meta": "Instrumentos de planificación (PORH) para garantizar calidad y cantidad de agua, para el sostenimiento de los ecosistemas acuáticos y los usos actuales y potenciales del agua, formulados, adoptados y en ejecución",
+                "cumplimiento": "0%",
+                "responsable": "DAGMA"
+            },
+            {
+                "numeracion": "97",
+                "meta": "Sistemas Individuales de Tratamiento de Agua Residual Doméstica (SITARD) construidas",
+                "cumplimiento": "0%",
+                "responsable": "Servicios Públicos"
+            },
+            {
+                "numeracion": "98",
+                "meta": "Sistemas Individuales de Tratamiento de Agua Residual Doméstica (SITARD) mejoradas",
+                "cumplimiento": "0%",
+                "responsable": "Servicios Públicos"
+            },
+            {
+                "numeracion": "99",
+                "meta": "Sistema de Tratamiento Primario de la PTAR Cañaveralejo mejorado",
+                "cumplimiento": "0%",
+                "responsable": "EMCALI"
+            },
+            {
+                "numeracion": "100",
+                "meta": "Evaluación del riesgo por sismos en el suelo urbano, elaborada",
+                "cumplimiento": "0%",
+                "responsable": "Planeación"
+            },
+            {
+                "numeracion": "101",
+                "meta": "Obras e intervenciones para la reducción de riesgos por inundaciones fluviales y pluviales, movimientos en masa y avenidas torrenciales diseñadas y ejecutadas",
+                "cumplimiento": "0%",
+                "responsable": "DAGMA"
+            },
+            {
+                "numeracion": "102",
+                "meta": "Pilotos de Sistemas Urbanos de Drenaje Sostenible (SUDS) y Soluciones Basadas en la Naturaleza (SBN) implementados con la generación de los lineamientos y determinantes ambientales en el manejo de escorrentías",
+                "cumplimiento": "0%",
+                "responsable": "DAGMA"
+            }
+        ]
+    },
+    {
+        "area": "educación",
+        "datos": [
+            {
+                "numeracion": "103",
+                "meta": "Personas con formación, sensibilización y/o utilización de servicios en el uso y apropiación de tecnologías de la información y la comunicación TIC",
+                "cumplimiento": "100%",
+                "responsable": "TIC"
+            },
+            {
+                "numeracion": "104",
+                "meta": "Puntos de apropiación digital y laboratorios de innovación digital operando",
+                "cumplimiento": "100%",
+                "responsable": "TIC"
+            },
+            {
+                "numeracion": "105",
+                "meta": "Estrategia de acceso y apropiación de las TIC dirigidos a superar brechas de género con enfoque diferencial, incluido zonas rurales y urbanas; implementadas",
+                "cumplimiento": "100%",
+                "responsable": "TIC"
+            },
+            {
+                "numeracion": "106",
+                "meta": "Estrategias de uso y apropiación de TIC implementadas",
+                "cumplimiento": "100%",
+                "responsable": "TIC"
+            },
+            {
+                "numeracion": "107",
+                "meta": "Programa estudiantil de emprendimientos orientados, formalizados y apoyados",
+                "cumplimiento": "100%",
+                "responsable": "Desarrollo Económico"
+            },
+            {
+                "numeracion": "108",
+                "meta": "Instituciones Educativas Oficiales que cuentan con apoyo psicosocial para la salud mental y prevención de los diferentes tipos de violencia",
+                "cumplimiento": "100%",
+                "responsable": "Educación"
+            },
+            {
+                "numeracion": "109",
+                "meta": "Instituciones Educativas Oficiales que fortalecen estrategias distritales en educación para la paz y gestión dialógica del conflicto",
+                "cumplimiento": "100%",
+                "responsable": "Paz y Cultura Ciudadana"
+            },
+            {
+                "numeracion": "110",
+                "meta": "Niñas y niños, mujeres gestantes y madres lactantes beneficiadas en procesos de lectura, escritura y oralidad",
+                "cumplimiento": "100%",
+                "responsable": "Cultura"
+            },
+            {
+                "numeracion": "111",
+                "meta": "Comunidad educativa de las Sedes Educativas Oficiales fortalecidas con procesos etnoeducativos afrodescendientes implementados",
+                "cumplimiento": "100%",
+                "responsable": "Educación"
+            },
+            {
+                "numeracion": "112",
+                "meta": "Estudiantes en condición de vulnerabilidad beneficiarios de paquetes escolares",
+                "cumplimiento": "100%",
+                "responsable": "Educación"
+            },
+            {
+                "numeracion": "113",
+                "meta": "Estudiantes de las IEO con estrategia de transporte escolar",
+                "cumplimiento": "100%",
+                "responsable": "Educación"
+            },
+            {
+                "numeracion": "114",
+                "meta": "Estudiantes beneficiados con programas de articulación con Instituciones de Educación Superior, de la formación técnica, Tecnológica, para el trabajo y el desarrollo humano (ETDH)",
+                "cumplimiento": "100%",
+                "responsable": "Educación"
+            },
+            {
+                "numeracion": "115",
+                "meta": "Instituciones educativas oficiales que fortalecen los proyectos pedagógicos transversales articulados a procesos dialogantes con la ciudad",
+                "cumplimiento": "100%",
+                "responsable": "Educación"
+            },
+            {
+                "numeracion": "116",
+                "meta": "Instituciones educativas que promueven el fortalecimiento de sus prácticas pedagógicas desde un enfoque de ciudad en el marco de sus currículos",
+                "cumplimiento": "100%",
+                "responsable": "Educación"
+            },
+            {
+                "numeracion": "117",
+                "meta": "Instituciones y organizaciones con promoción de lectura, escritura y oralidad",
+                "cumplimiento": "100%",
+                "responsable": "Cultura"
+            },
+            {
+                "numeracion": "118",
+                "meta": "Bibliotecas públicas y espacios adscritos a la Red, operando con servicios bibliotecarios",
+                "cumplimiento": "100%",
+                "responsable": "Cultura"
+            },
+            {
+                "numeracion": "119",
+                "meta": "Bibliotecas escolares abiertas y articuladas con el sistema de bibliotecas públicas comunitarias vinculadas con procesos formativos y culturales",
+                "cumplimiento": "100%",
+                "responsable": "Educación"
+            },
+            {
+                "numeracion": "120",
+                "meta": "Instituciones educativas que implementan programas, para el mejoramiento de las competencias básicas",
+                "cumplimiento": "100%",
+                "responsable": "Educación"
+            },
+            {
+                "numeracion": "121",
+                "meta": "Lineamientos para la creación del observatorio de educación",
+                "cumplimiento": "100%",
+                "responsable": "Educación"
+            },
+            {
+                "numeracion": "122",
+                "meta": "Instituciones educativas rurales con acompañamiento para la resignificación de sus PIER desde la seguridad alimentaria, la diversidad ambiental y relaciones productivas",
+                "cumplimiento": "100%",
+                "responsable": "Educación"
+            },
+            {
+                "numeracion": "123",
+                "meta": "Estudiantes de IEO matriculados en Jornada Única  (Registrados en el SIMAT)",
+                "cumplimiento": "94%",
+                "responsable": "Educación"
+            },
+            {
+                "numeracion": "124",
+                "meta": "Población en edad escolar matriculada en el sistema educativo oficial de Santiago de Cali",
+                "cumplimiento": "92%",
+                "responsable": "Educación"
+            },
+            {
+                "numeracion": "125",
+                "meta": "Instituciones Educativas oficiales que fortalecen sus directivos docentes en capacidades administrativas y humanas, para el liderazgo pedagógico",
+                "cumplimiento": "91%",
+                "responsable": "Educación"
+            },
+            {
+                "numeracion": "126",
+                "meta": "Estudiantes matriculados en las IEO con complementos alimentarios",
+                "cumplimiento": "89%",
+                "responsable": "Educación"
+            },
+            {
+                "numeracion": "127",
+                "meta": "Estudiantes con discapacidad y capacidades o talentos excepcionales vinculados a educación inclusiva forma, educación para el trabajo y el desarrollo humano y educación adecuada para la integración",
+                "cumplimiento": "72%",
+                "responsable": "Educación"
+            },
+            {
+                "numeracion": "128",
+                "meta": "Personas con formación, sensibilización y/o utilización de servicios en el uso y apropiación de tecnologías de la información y la comunicación TIC",
+                "cumplimiento": "100%",
+                "responsable": "TIC"
+            },
+            {
+                "numeracion": "129",
+                "meta": "Puntos de apropiación digital y laboratorios de innovación digital operando",
+                "cumplimiento": "100%",
+                "responsable": "TIC"
+            },
+            {
+                "numeracion": "130",
+                "meta": "Estrategia de acceso y apropiación de las TIC dirigidos a superar brechas de género con enfoque diferencial, incluido zonas rurales y urbanas; implementadas",
+                "cumplimiento": "100%",
+                "responsable": "TIC"
+            },
+            {
+                "numeracion": "131",
+                "meta": "Estrategias de uso y apropiación de TIC implementadas",
+                "cumplimiento": "100%",
+                "responsable": "TIC"
+            },
+            {
+                "numeracion": "132",
+                "meta": "Programa estudiantil de emprendimientos orientados, formalizados y apoyados",
+                "cumplimiento": "100%",
+                "responsable": "Desarrollo Económico"
+            },
+            {
+                "numeracion": "133",
+                "meta": "Instituciones Educativas Oficiales que cuentan con apoyo psicosocial para la salud mental y prevención de los diferentes tipos de violencia",
+                "cumplimiento": "100%",
+                "responsable": "Educación"
+            },
+            {
+                "numeracion": "134",
+                "meta": "Instituciones Educativas Oficiales que fortalecen estrategias distritales en educación para la paz y gestión dialógica del conflicto",
+                "cumplimiento": "100%",
+                "responsable": "Paz y Cultura Ciudadana"
+            },
+            {
+                "numeracion": "135",
+                "meta": "Niñas y niños, mujeres gestantes y madres lactantes beneficiadas en procesos de lectura, escritura y oralidad",
+                "cumplimiento": "100%",
+                "responsable": "Cultura"
+            },
+            {
+                "numeracion": "136",
+                "meta": "Comunidad educativa de las Sedes Educativas Oficiales fortalecidas con procesos etnoeducativos afrodescendientes implementados",
+                "cumplimiento": "100%",
+                "responsable": "Educación"
+            },
+            {
+                "numeracion": "137",
+                "meta": "Estudiantes en condición de vulnerabilidad beneficiarios de paquetes escolares",
+                "cumplimiento": "100%",
+                "responsable": "Educación"
+            },
+            {
+                "numeracion": "138",
+                "meta": "Estudiantes de las IEO con estrategia de transporte escolar",
+                "cumplimiento": "100%",
+                "responsable": "Educación"
+            },
+            {
+                "numeracion": "139",
+                "meta": "Estudiantes beneficiados con programas de articulación con Instituciones de Educación Superior, de la formación técnica, Tecnológica, para el trabajo y el desarrollo humano (ETDH)",
+                "cumplimiento": "100%",
+                "responsable": "Educación"
+            },
+            {
+                "numeracion": "140",
+                "meta": "Instituciones educativas oficiales que fortalecen los proyectos pedagógicos transversales articulados a procesos dialogantes con la ciudad",
+                "cumplimiento": "100%",
+                "responsable": "Educación"
+            },
+            {
+                "numeracion": "141",
+                "meta": "Instituciones educativas que promueven el fortalecimiento de sus prácticas pedagógicas desde un enfoque de ciudad en el marco de sus currículos",
+                "cumplimiento": "100%",
+                "responsable": "Educación"
+            },
+            {
+                "numeracion": "142",
+                "meta": "Instituciones y organizaciones con promoción de lectura, escritura y oralidad",
+                "cumplimiento": "100%",
+                "responsable": "Cultura"
+            },
+            {
+                "numeracion": "143",
+                "meta": "Bibliotecas públicas y espacios adscritos a la Red, operando con servicios bibliotecarios",
+                "cumplimiento": "100%",
+                "responsable": "Cultura"
+            },
+            {
+                "numeracion": "144",
+                "meta": "Bibliotecas escolares abiertas y articuladas con el sistema de bibliotecas públicas comunitarias vinculadas con procesos formativos y culturales",
+                "cumplimiento": "100%",
+                "responsable": "Educación"
+            },
+            {
+                "numeracion": "145",
+                "meta": "Instituciones educativas que implementan programas, para el mejoramiento de las competencias básicas",
+                "cumplimiento": "100%",
+                "responsable": "Educación"
+            },
+            {
+                "numeracion": "146",
+                "meta": "Lineamientos para la creación del observatorio de educación",
+                "cumplimiento": "100%",
+                "responsable": "Educación"
+            },
+            {
+                "numeracion": "147",
+                "meta": "Instituciones educativas rurales con acompañamiento para la resignificación de sus PIER desde la seguridad alimentaria, la diversidad ambiental y relaciones productivas",
+                "cumplimiento": "100%",
+                "responsable": "Educación"
+            },
+            {
+                "numeracion": "148",
+                "meta": "Estudiantes de IEO matriculados en Jornada Única  (Registrados en el SIMAT)",
+                "cumplimiento": "94%",
+                "responsable": "Educación"
+            },
+            {
+                "numeracion": "149",
+                "meta": "Población en edad escolar matriculada en el sistema educativo oficial de Santiago de Cali",
+                "cumplimiento": "92%",
+                "responsable": "Educación"
+            },
+            {
+                "numeracion": "150",
+                "meta": "Instituciones Educativas oficiales que fortalecen sus directivos docentes en capacidades administrativas y humanas, para el liderazgo pedagógico",
+                "cumplimiento": "91%",
+                "responsable": "Educación"
+            },
+            {
+                "numeracion": "151",
+                "meta": "Estudiantes matriculados en las IEO con complementos alimentarios",
+                "cumplimiento": "89%",
+                "responsable": "Educación"
+            },
+            {
+                "numeracion": "152",
+                "meta": "Estudiantes con discapacidad y capacidades o talentos excepcionales vinculados a educación inclusiva forma, educación para el trabajo y el desarrollo humano y educación adecuada para la integración",
+                "cumplimiento": "72%",
+                "responsable": "Educación"
+            },
+            {
+                "numeracion": "153",
+                "meta": "Docentes en procesos de formación organizados en comunidades de aprendizaje o redes para el fortalecimiento de sus experiencias, la investigación y el mejoramiento de la práctica docente y el aprendizaje",
+                "cumplimiento": "70%",
+                "responsable": "Educación"
+            },
+            {
+                "numeracion": "154",
+                "meta": "Puntos de Apropiación Digital (PAD) dotados con herramientas TI para población con discapacidad",
+                "cumplimiento": "66%",
+                "responsable": "TIC"
+            },
+            {
+                "numeracion": "155",
+                "meta": "IEO fortalecidas en competencias comunicativas en lengua extranjeraInglés",
+                "cumplimiento": "65%",
+                "responsable": "Educación"
+            },
+            {
+                "numeracion": "156",
+                "meta": "Instituciones educativas oficiales dotadas",
+                "cumplimiento": "54%",
+                "responsable": "Educación"
+            },
+            {
+                "numeracion": "157",
+                "meta": "Beneficiarios de estrategias de fomento en educación inicial en el marco de la educación con enfoque de género y diferencial",
+                "cumplimiento": "53%",
+                "responsable": "Educación"
+            },
+            {
+                "numeracion": "158",
+                "meta": "Bibliotecas y espacios culturales interconectados",
+                "cumplimiento": "50%",
+                "responsable": "Cultura"
+            },
+            {
+                "numeracion": "159",
+                "meta": "Política Pública de Educación Rural adoptada",
+                "cumplimiento": "45%",
+                "responsable": "Educación"
+            },
+            {
+                "numeracion": "160",
+                "meta": "Estudiantes de Instituciones Educativas Oficiales con bajos resultados en Pruebas Saber 11 vinculados al Plan Talentos",
+                "cumplimiento": "39%",
+                "responsable": "Educación"
+            },
+            {
+                "numeracion": "161",
+                "meta": "Laboratorios que incentiven las Iniciativas de Ciencia, Tecnología e Innovación (CTI) de sectores productivos y de servicios de la ciudad, instalados",
+                "cumplimiento": "33%",
+                "responsable": "Desarrollo Económico"
+            },
+            {
+                "numeracion": "162",
+                "meta": "Docentes y Directivos Docentes con acompañamiento didáctico y curricular en estrategias pedagógicas mediadas por las TIC",
+                "cumplimiento": "22%",
+                "responsable": "Educación"
+            },
+            {
+                "numeracion": "163",
+                "meta": "Centro de ciencia, tecnología e innovación digital al servicio de los ciudadanos con equipamiento tecnológico, operando",
+                "cumplimiento": "0%",
+                "responsable": "TIC"
+            },
+            {
+                "numeracion": "164",
+                "meta": "Instituciones Educativas Oficiales con infraestructura de red y datos adecuada",
+                "cumplimiento": "0%",
+                "responsable": "Educación"
+            },
+            {
+                "numeracion": "165",
+                "meta": "Comunidad educativa de las Instituciones Educativas Oficiales con escuelas de familia que incorporan el enfoque de derechos, género y respeto por la Casa Común y otros seres sintientes",
+                "cumplimiento": "0%",
+                "responsable": "Educación"
+            },
+            {
+                "numeracion": "166",
+                "meta": "Instituciones Educativas Oficiales que participan en la implementación del observatorio de convivencia escolar para el Distrito",
+                "cumplimiento": "0%",
+                "responsable": "Educación"
+            },
+            {
+                "numeracion": "167",
+                "meta": "Estudiantes víctimas del conflicto armado interno matriculados en las Instituciones Educativas Oficiales con estrategias para la permanencia escolar",
+                "cumplimiento": "0%",
+                "responsable": "Educación"
+            },
+            {
+                "numeracion": "168",
+                "meta": "Sedes educativas oficiales con implementación de modelos educativos flexibles para niños, adolescentes, jóvenes y adultos en proceso de alfabetización",
+                "cumplimiento": "0%",
+                "responsable": "Educación"
+            },
+            {
+                "numeracion": "169",
+                "meta": "Creación de la Universidad Distrital de Cali",
+                "cumplimiento": "0%",
+                "responsable": "Educación"
+            },
+            {
+                "numeracion": "170",
+                "meta": "IEO que fortalecen en el Distrito los planes de lectura, escritura y oralidad desde la educación Inicial hasta la media",
+                "cumplimiento": "0%",
+                "responsable": "Educación"
+            },
+            {
+                "numeracion": "171",
+                "meta": "Instituciones Educativas oficiales con seguimiento, y evaluación de la calidad de la educación con enfoque formativo",
+                "cumplimiento": "0%",
+                "responsable": "Educación"
+            },
+            {
+                "numeracion": "172",
+                "meta": "Revisión, ajuste y promulgación de la política pública de bilingüismo",
+                "cumplimiento": "0%",
+                "responsable": "Educación"
+            },
+            {
+                "numeracion": "173",
+                "meta": "Institución educativa rural con programa piloto de propuesta alimentaria alternativa",
+                "cumplimiento": "0%",
+                "responsable": "Educación"
+            },
+            {
+                "numeracion": "174",
+                "meta": "Sistema para la automatización de procesos del sector educativo, diseñado e implementado",
+                "cumplimiento": "0%",
+                "responsable": "Educación"
+            }
+        ]
+    },
+    {
+        "area": "movilidad",
+        "datos": [
+            {
+                "numeracion": "175",
+                "meta": "Vías rurales con mantenimiento anual rutinario con inclusión social",
+                "cumplimiento": "100%",
+                "responsable": "Infraestructura"
+            },
+            {
+                "numeracion": "176",
+                "meta": "Espacio público asociado al SITMMIO generado y recuperado",
+                "cumplimiento": "100%",
+                "responsable": "Metro Cali"
+            },
+            {
+                "numeracion": "177",
+                "meta": "Mantenimiento de puentes peatonales de la zona urbana y rural",
+                "cumplimiento": "100%",
+                "responsable": "Infraestructura"
+            },
+            {
+                "numeracion": "178",
+                "meta": "Kilómetros de ciclo-infraestructura mantenida",
+                "cumplimiento": "100%",
+                "responsable": "Infraestructura"
+            },
+            {
+                "numeracion": "179",
+                "meta": "Ejecución de recursos FESDE para la operación del Sistema de Transporte Masivo, reportado",
+                "cumplimiento": "100%",
+                "responsable": "Movilidad"
+            },
+            {
+                "numeracion": "180",
+                "meta": "Estrategias financieras y operativas de optimización del SITM_MIO implementadas",
+                "cumplimiento": "100%",
+                "responsable": "Metro Cali"
+            },
+            {
+                "numeracion": "181",
+                "meta": "Puentes vehiculares en la zona urbana y rural mantenidos",
+                "cumplimiento": "100%",
+                "responsable": "Infraestructura"
+            },
+            {
+                "numeracion": "182",
+                "meta": "Mantenimiento de la red semaforizada en Cali realizada",
+                "cumplimiento": "100%",
+                "responsable": "Movilidad"
+            },
+            {
+                "numeracion": "183",
+                "meta": "Puntos de la red vial del Distrito de Cali señalizados",
+                "cumplimiento": "100%",
+                "responsable": "Movilidad"
+            },
+            {
+                "numeracion": "184",
+                "meta": "Operativos en vía para el control de vehículos automotores realizados",
+                "cumplimiento": "100%",
+                "responsable": "Movilidad"
+            },
+            {
+                "numeracion": "185",
+                "meta": "Acciones del plan local de seguridad vial implementados",
+                "cumplimiento": "100%",
+                "responsable": "Movilidad"
+            },
+            {
+                "numeracion": "186",
+                "meta": "Centro de enseñanza automovilística de Distrito de Cali operando",
+                "cumplimiento": "100%",
+                "responsable": "Movilidad"
+            },
+            {
+                "numeracion": "187",
+                "meta": "Promoción y pedagogía de comportamientos y prácticas seguras para la movilidad sustentable y sobre estrategias de regulación del tránsito realizadas",
+                "cumplimiento": "100%",
+                "responsable": "Movilidad"
+            },
+            {
+                "numeracion": "188",
+                "meta": "Espacios de participación e interacción con los diversos actores viales y comunidad del Municipio de Cali implementados",
+                "cumplimiento": "100%",
+                "responsable": "Movilidad"
+            },
+            {
+                "numeracion": "189",
+                "meta": "Estudio complementario para la implementación de la autoridad regional de transporte – ART y ente gestor del tren de cercanías, elaborados",
+                "cumplimiento": "100%",
+                "responsable": "Planeación"
+            },
+            {
+                "numeracion": "190",
+                "meta": "Plan Estratégico de Seguridad vial fortalecido",
+                "cumplimiento": "100%",
+                "responsable": "Gestión de Bienes y Servicios"
+            },
+            {
+                "numeracion": "191",
+                "meta": "Plan de Mejora del Ambiente Sonoro, actualizado, adoptado y ejecutado",
+                "cumplimiento": "100%",
+                "responsable": "DAGMA"
+            },
+            {
+                "numeracion": "192",
+                "meta": "Sistemas inteligentes de transporte en el SITM-MIO implementados",
+                "cumplimiento": "98%",
+                "responsable": "Metro Cali"
+            },
+            {
+                "numeracion": "193",
+                "meta": "Vías con mantenimiento y rehabilitación eco sostenible",
+                "cumplimiento": "92%",
+                "responsable": "Infraestructura"
+            },
+            {
+                "numeracion": "194",
+                "meta": "Cicloparquedaeros integrados al SITM-MIO construidos",
+                "cumplimiento": "90%",
+                "responsable": "Metro Cali"
+            },
+            {
+                "numeracion": "195",
+                "meta": "Vías y obras de drenaje en la zona urbana y rural construidas",
+                "cumplimiento": "88%",
+                "responsable": "Infraestructura"
+            },
+            {
+                "numeracion": "196",
+                "meta": "Red de Ciclo-infraestructura (ciclo rutas integradas al SITM-MIO) implementadas",
+                "cumplimiento": "85%",
+                "responsable": "Metro Cali"
+            },
+            {
+                "numeracion": "197",
+                "meta": "Mejoramiento de la red peatonal en la zona urbana y rural",
+                "cumplimiento": "82%",
+                "responsable": "Infraestructura"
+            },
+            {
+                "numeracion": "198",
+                "meta": "Estaciones de parada en corredores troncales del SITM-MIO, construidas",
+                "cumplimiento": "82%",
+                "responsable": "Metro Cali"
+            },
+            {
+                "numeracion": "199",
+                "meta": "Sistema de señalización turística implementado",
+                "cumplimiento": "73%",
+                "responsable": "Turismo"
+            },
+            {
+                "numeracion": "200",
+                "meta": "Vías rurales con mantenimiento anual rutinario con inclusión social",
+                "cumplimiento": "100%",
+                "responsable": "Infraestructura"
+            },
+            {
+                "numeracion": "201",
+                "meta": "Espacio público asociado al SITMMIO generado y recuperado",
+                "cumplimiento": "100%",
+                "responsable": "Metro Cali"
+            },
+            {
+                "numeracion": "202",
+                "meta": "Mantenimiento de puentes peatonales de la zona urbana y rural",
+                "cumplimiento": "100%",
+                "responsable": "Infraestructura"
+            },
+            {
+                "numeracion": "203",
+                "meta": "Kilómetros de ciclo-infraestructura mantenida",
+                "cumplimiento": "100%",
+                "responsable": "Infraestructura"
+            },
+            {
+                "numeracion": "204",
+                "meta": "Ejecución de recursos FESDE para la operación del Sistema de Transporte Masivo, reportado",
+                "cumplimiento": "100%",
+                "responsable": "Movilidad"
+            },
+            {
+                "numeracion": "205",
+                "meta": "Estrategias financieras y operativas de optimización del SITM_MIO implementadas",
+                "cumplimiento": "100%",
+                "responsable": "Metro Cali"
+            },
+            {
+                "numeracion": "206",
+                "meta": "Puentes vehiculares en la zona urbana y rural mantenidos",
+                "cumplimiento": "100%",
+                "responsable": "Infraestructura"
+            },
+            {
+                "numeracion": "207",
+                "meta": "Mantenimiento de la red semaforizada en Cali realizada",
+                "cumplimiento": "100%",
+                "responsable": "Movilidad"
+            },
+            {
+                "numeracion": "208",
+                "meta": "Puntos de la red vial del Distrito de Cali señalizados",
+                "cumplimiento": "100%",
+                "responsable": "Movilidad"
+            },
+            {
+                "numeracion": "209",
+                "meta": "Operativos en vía para el control de vehículos automotores realizados",
+                "cumplimiento": "100%",
+                "responsable": "Movilidad"
+            },
+            {
+                "numeracion": "210",
+                "meta": "Acciones del plan local de seguridad vial implementados",
+                "cumplimiento": "100%",
+                "responsable": "Movilidad"
+            },
+            {
+                "numeracion": "211",
+                "meta": "Centro de enseñanza automovilística de Distrito de Cali operando",
+                "cumplimiento": "100%",
+                "responsable": "Movilidad"
+            },
+            {
+                "numeracion": "212",
+                "meta": "Promoción y pedagogía de comportamientos y prácticas seguras para la movilidad sustentable y sobre estrategias de regulación del tránsito realizadas",
+                "cumplimiento": "100%",
+                "responsable": "Movilidad"
+            },
+            {
+                "numeracion": "213",
+                "meta": "Espacios de participación e interacción con los diversos actores viales y comunidad del Municipio de Cali implementados",
+                "cumplimiento": "100%",
+                "responsable": "Movilidad"
+            },
+            {
+                "numeracion": "214",
+                "meta": "Estudio complementario para la implementación de la autoridad regional de transporte – ART y ente gestor del tren de cercanías, elaborados",
+                "cumplimiento": "100%",
+                "responsable": "Planeación"
+            },
+            {
+                "numeracion": "215",
+                "meta": "Plan Estratégico de Seguridad vial fortalecido",
+                "cumplimiento": "100%",
+                "responsable": "Gestión de Bienes y Servicios"
+            },
+            {
+                "numeracion": "216",
+                "meta": "Plan de Mejora del Ambiente Sonoro, actualizado, adoptado y ejecutado",
+                "cumplimiento": "100%",
+                "responsable": "DAGMA"
+            },
+            {
+                "numeracion": "217",
+                "meta": "Sistemas inteligentes de transporte en el SITM-MIO implementados",
+                "cumplimiento": "98%",
+                "responsable": "Metro Cali"
+            },
+            {
+                "numeracion": "218",
+                "meta": "Vías con mantenimiento y rehabilitación eco sostenible",
+                "cumplimiento": "92%",
+                "responsable": "Infraestructura"
+            },
+            {
+                "numeracion": "219",
+                "meta": "Cicloparquedaeros integrados al SITM-MIO construidos",
+                "cumplimiento": "90%",
+                "responsable": "Metro Cali"
+            },
+            {
+                "numeracion": "220",
+                "meta": "Vías y obras de drenaje en la zona urbana y rural construidas",
+                "cumplimiento": "88%",
+                "responsable": "Infraestructura"
+            },
+            {
+                "numeracion": "221",
+                "meta": "Red de Ciclo-infraestructura (ciclo rutas integradas al SITM-MIO) implementadas",
+                "cumplimiento": "85%",
+                "responsable": "Metro Cali"
+            },
+            {
+                "numeracion": "222",
+                "meta": "Mejoramiento de la red peatonal en la zona urbana y rural",
+                "cumplimiento": "82%",
+                "responsable": "Infraestructura"
+            },
+            {
+                "numeracion": "223",
+                "meta": "Estaciones de parada en corredores troncales del SITM-MIO, construidas",
+                "cumplimiento": "82%",
+                "responsable": "Metro Cali"
+            },
+            {
+                "numeracion": "224",
+                "meta": "Sistema de señalización turística implementado",
+                "cumplimiento": "73%",
+                "responsable": "Turismo"
+            },
+            {
+                "numeracion": "225",
+                "meta": "Vías rurales con mantenimiento anual rutinario con inclusión social",
+                "cumplimiento": "100%",
+                "responsable": "Infraestructura"
+            },
+            {
+                "numeracion": "226",
+                "meta": "Espacio público asociado al SITMMIO generado y recuperado",
+                "cumplimiento": "100%",
+                "responsable": "Metro Cali"
+            },
+            {
+                "numeracion": "227",
+                "meta": "Mantenimiento de puentes peatonales de la zona urbana y rural",
+                "cumplimiento": "100%",
+                "responsable": "Infraestructura"
+            },
+            {
+                "numeracion": "228",
+                "meta": "Kilómetros de ciclo-infraestructura mantenida",
+                "cumplimiento": "100%",
+                "responsable": "Infraestructura"
+            },
+            {
+                "numeracion": "229",
+                "meta": "Ejecución de recursos FESDE para la operación del Sistema de Transporte Masivo, reportado",
+                "cumplimiento": "100%",
+                "responsable": "Movilidad"
+            },
+            {
+                "numeracion": "230",
+                "meta": "Estrategias financieras y operativas de optimización del SITM_MIO implementadas",
+                "cumplimiento": "100%",
+                "responsable": "Metro Cali"
+            },
+            {
+                "numeracion": "231",
+                "meta": "Estudios Técnicos complementarios para el Tren de Cercanías elaborados",
+                "cumplimiento": "67%",
+                "responsable": "Planeación"
+            },
+            {
+                "numeracion": "232",
+                "meta": "Planes especiales zonales de gestión del estacionamiento formulados",
+                "cumplimiento": "50%",
+                "responsable": "Planeación"
+            },
+            {
+                "numeracion": "233",
+                "meta": "Terminales Intermedias del SITM MIO, construidas",
+                "cumplimiento": "50%",
+                "responsable": "Metro Cali"
+            },
+            {
+                "numeracion": "234",
+                "meta": "Terminales de cabecera del SITM- MIO construidas",
+                "cumplimiento": "47%",
+                "responsable": "Metro Cali"
+            },
+            {
+                "numeracion": "235",
+                "meta": "Puntos de Ciclo parqueaderos en la ciudad instalados",
+                "cumplimiento": "38%",
+                "responsable": "Movilidad"
+            },
+            {
+                "numeracion": "236",
+                "meta": "Actores de la movilidad sensibilizados sobre la movilidad sostenible y segura",
+                "cumplimiento": "31%",
+                "responsable": "Movilidad"
+            },
+            {
+                "numeracion": "237",
+                "meta": "Patio Talleres del SITM MIO construidos",
+                "cumplimiento": "23%",
+                "responsable": "Metro Cali"
+            },
+            {
+                "numeracion": "238",
+                "meta": "Intersecciones en el sistema de semaforización inteligente implementadas",
+                "cumplimiento": "8%",
+                "responsable": "Movilidad"
+            },
+            {
+                "numeracion": "239",
+                "meta": "Ejecución de recursos componente tecnológico, reportado al STIM",
+                "cumplimiento": "6%",
+                "responsable": "Movilidad"
+            },
+            {
+                "numeracion": "240",
+                "meta": "Kilómetros de ciclo-infraestructura construida",
+                "cumplimiento": "1%",
+                "responsable": "Infraestructura"
+            },
+            {
+                "numeracion": "241",
+                "meta": "Buses del SITM-MIO con baja contaminación en circulación en hora pico (promedio flota ejecutada)",
+                "cumplimiento": "1%",
+                "responsable": "Metro Cali"
+            },
+            {
+                "numeracion": "242",
+                "meta": "Sistema de Bicicletas Públicas operando",
+                "cumplimiento": "0%",
+                "responsable": "Movilidad"
+            },
+            {
+                "numeracion": "243",
+                "meta": "Estudio de generación plan incentivos al uso de vehículos eléctricos e híbridos de servicio público y particular en el Distrito de Cali elaborado",
+                "cumplimiento": "0%",
+                "responsable": "Movilidad"
+            },
+            {
+                "numeracion": "244",
+                "meta": "Construcción de soluciones peatonales en zona urbana y rural",
+                "cumplimiento": "0%",
+                "responsable": "Infraestructura"
+            },
+            {
+                "numeracion": "245",
+                "meta": "Kilómetros de ciclo infraestructura en calzada implementados",
+                "cumplimiento": "0%",
+                "responsable": "Movilidad"
+            },
+            {
+                "numeracion": "246",
+                "meta": "km de corredores pre troncales del SITM - MIO, adecuados con Carriles preferenciales",
+                "cumplimiento": "0%",
+                "responsable": "Metro Cali"
+            },
+            {
+                "numeracion": "247",
+                "meta": "Sistemas de servicio complementario intramunicipal (camperos y/o transporte público colectivo, sistema de bicicletas públicas alimentadoras) y supramunicipal integrados al SITM MIO",
+                "cumplimiento": "0%",
+                "responsable": "Metro Cali"
+            },
+            {
+                "numeracion": "248",
+                "meta": "Estudio de prefactibilidad de la segunda línea del Sistema aéreo suspendido alimentador del MIO Cable, realizado",
+                "cumplimiento": "0%",
+                "responsable": "Metro Cali"
+            },
+            {
+                "numeracion": "249",
+                "meta": "Intersecciones viales a desnivel construidas",
+                "cumplimiento": "0%",
+                "responsable": "Infraestructura"
+            },
+            {
+                "numeracion": "250",
+                "meta": "Intersecciones viales a nivel construidas",
+                "cumplimiento": "0%",
+                "responsable": "Infraestructura"
+            },
+            {
+                "numeracion": "251",
+                "meta": "Implementación del Sistema de gestión de Infraestructura Vial de Cali",
+                "cumplimiento": "0%",
+                "responsable": "Infraestructura"
+            },
+            {
+                "numeracion": "252",
+                "meta": "Construcción de vías de la prolongación Avenida Ciudad de Cali, entre la carrera 109 y Rio Jamundí",
+                "cumplimiento": "0%",
+                "responsable": "Infraestructura"
+            },
+            {
+                "numeracion": "253",
+                "meta": "Plan especial de transporte de carga y logística para Cali formulado",
+                "cumplimiento": "0%",
+                "responsable": "Movilidad"
+            },
+            {
+                "numeracion": "254",
+                "meta": "Zonas Especiales de Estacionamiento Regulado - ZER implementadas",
+                "cumplimiento": "0%",
+                "responsable": "Movilidad"
+            }
+        ]
+    },
+    {
+        "area": "salud",
+        "datos": [
+            {
+                "numeracion": "255",
+                "meta": "Iniciativas institucionales de prevención y promoción de la vulneración de derechos humanos en salud y en salud mental creadas",
+                "cumplimiento": "100%",
+                "responsable": "Paz y Cultura Ciudadana"
+            },
+            {
+                "numeracion": "256",
+                "meta": "Dosis de vacuna del programa ampliado de inmunizaciones aplicadas",
+                "cumplimiento": "100%",
+                "responsable": "Salud"
+            },
+            {
+                "numeracion": "257",
+                "meta": "Adultos mayores beneficiados con estrategias en pro del envejecimiento funcional saludable y activo",
+                "cumplimiento": "100%",
+                "responsable": "Deporte y Recreación"
+            },
+            {
+                "numeracion": "258",
+                "meta": "Personas con prácticas para el envejecimiento activo y la cultura positiva de la vejez aumentadas",
+                "cumplimiento": "100%",
+                "responsable": "Salud"
+            },
+            {
+                "numeracion": "259",
+                "meta": "Personas con discapacidad, sus familias y cuidadores atendidos en abordaje de la discapacidad, derechos, redes de apoyo, incidencia, organización, desarrollo de habilidades para la vida y el trabajo",
+                "cumplimiento": "100%",
+                "responsable": "Bienestar Social"
+            },
+            {
+                "numeracion": "260",
+                "meta": "Personas con discapacidad y con enfermedades huérfanas intervenidas con la Estrategia de Rehabilitación Basada en la Comunidad -RBC- aumentadas",
+                "cumplimiento": "100%",
+                "responsable": "Salud"
+            },
+            {
+                "numeracion": "261",
+                "meta": "Componente de fortalecimiento en salud propia, del Modelo intercultural de cuidado en salud en población afrodescendiente, implementado",
+                "cumplimiento": "100%",
+                "responsable": "Salud"
+            },
+            {
+                "numeracion": "262",
+                "meta": "Personas en sufrimiento psíquico y social incluidas en el modelo comunitario en Salud Mental",
+                "cumplimiento": "100%",
+                "responsable": "Salud"
+            },
+            {
+                "numeracion": "263",
+                "meta": "Programa de Promoción y Atención Integral a la Malnutrición implementado en las instituciones",
+                "cumplimiento": "100%",
+                "responsable": "Salud"
+            },
+            {
+                "numeracion": "264",
+                "meta": "Entidades de los entornos de vida cotidiana con prácticas de vida saludable que prevengan la mortalidad temprana por hipertensión, diabetes y cáncer, implementados",
+                "cumplimiento": "100%",
+                "responsable": "Salud"
+            },
+            {
+                "numeracion": "265",
+                "meta": "Personas con Tuberculosis diagnosticadas antes de 30 días a partir de la consulta",
+                "cumplimiento": "100%",
+                "responsable": "Salud"
+            },
+            {
+                "numeracion": "266",
+                "meta": "Unidades Primarias Generadoras de Datos UPGD funcionando en el sistema de vigilancia epidemiológica",
+                "cumplimiento": "100%",
+                "responsable": "Salud"
+            },
+            {
+                "numeracion": "267",
+                "meta": "Rutas Integrales de Atención para poblaciones en riesgo en el marco del MAITE implementadas",
+                "cumplimiento": "100%",
+                "responsable": "Salud"
+            },
+            {
+                "numeracion": "268",
+                "meta": "Líderes comunitarios con capacidades para la exigibilidad del derecho a la salud certificados",
+                "cumplimiento": "100%",
+                "responsable": "Salud"
+            },
+            {
+                "numeracion": "269",
+                "meta": "Investigación aplicada a la reducción de la incidencia de las arbovirosis y del vector transmisor realizada",
+                "cumplimiento": "100%",
+                "responsable": "Salud"
+            },
+            {
+                "numeracion": "270",
+                "meta": "Personas en situación y en riesgo de consumo de sustancias psicoactivas, intervenidas",
+                "cumplimiento": "100%",
+                "responsable": "Salud"
+            },
+            {
+                "numeracion": "271",
+                "meta": "Entidades de salud con atención integral de VIH-SIDA-Hepatitis B y C y enfoque diferencial y de género, en la prestación de servicios de salud implementada",
+                "cumplimiento": "100%",
+                "responsable": "Salud"
+            },
+            {
+                "numeracion": "272",
+                "meta": "Política pública de salud mental adoptada",
+                "cumplimiento": "100%",
+                "responsable": "Salud"
+            },
+            {
+                "numeracion": "273",
+                "meta": "Ruta de promoción y mantenimiento de la salud en el entorno educativo implementado",
+                "cumplimiento": "100%",
+                "responsable": "Salud"
+            },
+            {
+                "numeracion": "274",
+                "meta": "Población sin aseguramiento atendida en las Empresas Sociales del Estado",
+                "cumplimiento": "100%",
+                "responsable": "Salud"
+            },
+            {
+                "numeracion": "275",
+                "meta": "Población migrante atendida",
+                "cumplimiento": "100%",
+                "responsable": "Salud"
+            },
+            {
+                "numeracion": "276",
+                "meta": "Usuarios con restitución de derechos en salud por la Autoridad Sanitaria",
+                "cumplimiento": "100%",
+                "responsable": "Salud"
+            },
+            {
+                "numeracion": "277",
+                "meta": "Riesgos en salud intervenidos",
+                "cumplimiento": "100%",
+                "responsable": "Salud"
+            },
+            {
+                "numeracion": "278",
+                "meta": "Territorios que concentran el mayor riesgo epidemiológico, sanitario, social y ambiental intervenidos integralmente",
+                "cumplimiento": "100%",
+                "responsable": "Salud"
+            },
+            {
+                "numeracion": "279",
+                "meta": "Estrategia de Gestión Integral - EGI de ETV implementada",
+                "cumplimiento": "100%",
+                "responsable": "Salud"
+            },
+            {
+                "numeracion": "280",
+                "meta": "Estrategia de Gestión Integrada - EGI de Zoonosis implementada",
+                "cumplimiento": "100%",
+                "responsable": "Salud"
+            },
+            {
+                "numeracion": "281",
+                "meta": "Centro de Prevención de Zoonosis adecuado",
+                "cumplimiento": "100%",
+                "responsable": "Salud"
+            },
+            {
+                "numeracion": "282",
+                "meta": "Edificaciones e instalaciones con condiciones seguras para la salud humana aumentadas",
+                "cumplimiento": "100%",
+                "responsable": "Salud"
+            },
+            {
+                "numeracion": "283",
+                "meta": "Empresas priorizadas con manejo eficiente de Residuos Peligrosos (RESPEL)",
+                "cumplimiento": "100%",
+                "responsable": "DAGMA"
+            },
+            {
+                "numeracion": "284",
+                "meta": "Servicios de urgencias y ambulancias seguros en la respuesta a urgencias emergencias y desastres",
+                "cumplimiento": "100%",
+                "responsable": "Salud"
+            },
+            {
+                "numeracion": "285",
+                "meta": "Personas identificadas sin seguridad social, afiliadas en salud",
+                "cumplimiento": "100%",
+                "responsable": "Salud"
+            },
+            {
+                "numeracion": "286",
+                "meta": "Sistema de Garantía de la Calidad en Salud en las IPS con cumplimiento",
+                "cumplimiento": "98%",
+                "responsable": "Salud"
+            },
+            {
+                "numeracion": "287",
+                "meta": "Productos de apoyo para la movilidad y desplazamiento de las Personas con discapacidad, entregados",
+                "cumplimiento": "91%",
+                "responsable": "Bienestar Social"
+            },
+            {
+                "numeracion": "288",
+                "meta": "Modelo integral de salud sexual y reproductiva, implementado",
+                "cumplimiento": "90%",
+                "responsable": "Salud"
+            },
+            {
+                "numeracion": "289",
+                "meta": "Laboratorio de Vigilancia Epidemiológica, Investigación y Autoridad Sanitaria implementado",
+                "cumplimiento": "82%",
+                "responsable": "Salud"
+            },
+            {
+                "numeracion": "290",
+                "meta": "Sistema Distrital del Cuidado, diseñado y en proceso de implementación",
+                "cumplimiento": "70%",
+                "responsable": "Bienestar Social"
+            },
+            {
+                "numeracion": "291",
+                "meta": "Niñas, niños, adolescentes, jóvenes, adultos y adultos mayores con discapacidad y sus cuidadores vinculados anualmente en procesos deportivos de formación",
+                "cumplimiento": "62%",
+                "responsable": "Deporte y Recreación"
+            },
+            {
+                "numeracion": "292",
+                "meta": "Niñas, niños, adolescentes, jóvenes, adultos y adultos mayores con discapacidad y sus cuidadores vinculados anualmente en procesos deportivos de formación",
+                "cumplimiento": "62%",
+                "responsable": "Deporte y Recreación"
+            },
+            {
+                "numeracion": "293",
+                "meta": "Unidades biológicas (Neumococo 23, Meningococo, DPT acelular, Hepatitis A y B) no incluidas en el esquema nacional gratuito de vacunación a población priorizada por factores de riesgo aplicadas",
+                "cumplimiento": "54%",
+                "responsable": "Salud"
+            },
+            {
+                "numeracion": "294",
+                "meta": "Centro de Prevención y Atención del Consumo de Sustancias Psicoactivas -SPA- diseñado y construido",
+                "cumplimiento": "9%",
+                "responsable": "Salud"
+            },
+            {
+                "numeracion": "295",
+                "meta": "Central de Telecomunicaciones en Salud Fase 1 diseñada y construida",
+                "cumplimiento": "9%",
+                "responsable": "Salud"
+            },
+            {
+                "numeracion": "296",
+                "meta": "Centros Vida para personas mayores adecuados",
+                "cumplimiento": "0%",
+                "responsable": "Bienestar Social"
+            },
+            {
+                "numeracion": "297",
+                "meta": "Unidades biológicas (Neumococo 23, Meningococo, DPT acelular, Hepatitis A y B) no incluidas en el esquema nacional gratuito de vacunación a población priorizada por factores de riesgo aplicadas",
+                "cumplimiento": "54%",
+                "responsable": "Salud"
+            },
+            {
+                "numeracion": "298",
+                "meta": "Centro de Prevención y Atención del Consumo de Sustancias Psicoactivas -SPA- diseñado y construido",
+                "cumplimiento": "9%",
+                "responsable": "Salud"
+            },
+            {
+                "numeracion": "299",
+                "meta": "Central de Telecomunicaciones en Salud Fase 1 diseñada y construida",
+                "cumplimiento": "9%",
+                "responsable": "Salud"
+            },
+            {
+                "numeracion": "300",
+                "meta": "Centros Vida para personas mayores adecuados",
+                "cumplimiento": "0%",
+                "responsable": "Bienestar Social"
+            },
+            {
+                "numeracion": "301",
+                "meta": "Unidades biológicas (Neumococo 23, Meningococo, DPT acelular, Hepatitis A y B) no incluidas en el esquema nacional gratuito de vacunación a población priorizada por factores de riesgo aplicadas",
+                "cumplimiento": "54%",
+                "responsable": "Salud"
+            },
+            {
+                "numeracion": "302",
+                "meta": "Centro de Prevención y Atención del Consumo de Sustancias Psicoactivas -SPA- diseñado y construido",
+                "cumplimiento": "9%",
+                "responsable": "Salud"
+            },
+            {
+                "numeracion": "303",
+                "meta": "Central de Telecomunicaciones en Salud Fase 1 diseñada y construida",
+                "cumplimiento": "9%",
+                "responsable": "Salud"
+            },
+            {
+                "numeracion": "304",
+                "meta": "Centros Vida para personas mayores adecuados",
+                "cumplimiento": "0%",
+                "responsable": "Bienestar Social"
+            },
+            {
+                "numeracion": "305",
+                "meta": "Unidades biológicas (Neumococo 23, Meningococo, DPT acelular, Hepatitis A y B) no incluidas en el esquema nacional gratuito de vacunación a población priorizada por factores de riesgo aplicadas",
+                "cumplimiento": "54%",
+                "responsable": "Salud"
+            },
+            {
+                "numeracion": "306",
+                "meta": "Centro de Prevención y Atención del Consumo de Sustancias Psicoactivas -SPA- diseñado y construido",
+                "cumplimiento": "9%",
+                "responsable": "Salud"
+            }
+        ]
+    },
+    {
+        "area": "seguridad",
+        "datos": [
+            {
+                "numeracion": "307",
+                "meta": "Plan Maestro de Alumbrado Público elaborado",
+                "cumplimiento": "100%",
+                "responsable": "Servicios Públicos"
+            },
+            {
+                "numeracion": "308",
+                "meta": "Conexiones físicas de Instituciones Distritales pertenecientes a REMI con mantenimiento",
+                "cumplimiento": "100%",
+                "responsable": "TIC"
+            },
+            {
+                "numeracion": "309",
+                "meta": "Establecimientos de comercio nocturno vinculados al proceso de certificación de buenas prácticas de seguridad",
+                "cumplimiento": "100%",
+                "responsable": "Seguridad y Justicia"
+            },
+            {
+                "numeracion": "310",
+                "meta": "Política pública de Derechos Humanos formulada, aprobada y adoptada",
+                "cumplimiento": "100%",
+                "responsable": "Paz y Cultura Ciudadana"
+            },
+            {
+                "numeracion": "311",
+                "meta": "Niños, niñas, adolescentes y jóvenes sensibilizados para la prevención de los delitos de desaparición, trata, reclutamiento forzado, uso y utilización de menores",
+                "cumplimiento": "100%",
+                "responsable": "Paz y Cultura Ciudadana"
+            },
+            {
+                "numeracion": "312",
+                "meta": "Personas que participan en la promoción y protección de Derechos Humanos, la naturaleza, los seres sintientes y la prevención de sus vulneraciones",
+                "cumplimiento": "100%",
+                "responsable": "Paz y Cultura Ciudadana"
+            },
+            {
+                "numeracion": "313",
+                "meta": "Espacios de diálogo, reconciliación, construcción de paz y Cuidado de la Casa Común creados",
+                "cumplimiento": "100%",
+                "responsable": "Paz y Cultura Ciudadana"
+            },
+            {
+                "numeracion": "314",
+                "meta": "Personas en proceso de reincorporación, reintegración, desvinculados del conflicto armado con orientación social, política y comunitaria",
+                "cumplimiento": "100%",
+                "responsable": "Paz y Cultura Ciudadana"
+            },
+            {
+                "numeracion": "315",
+                "meta": "Museo de la Casa de las Memorias del Conflicto y la Reconciliación adecuado, equipado y en operación en el territorio",
+                "cumplimiento": "100%",
+                "responsable": "Paz y Cultura Ciudadana"
+            },
+            {
+                "numeracion": "316",
+                "meta": "Plan de paz y convivencia pacífica implementado",
+                "cumplimiento": "100%",
+                "responsable": "Paz y Cultura Ciudadana"
+            },
+            {
+                "numeracion": "317",
+                "meta": "Iniciativas de justicia comunitaria para la prevención y transformación de conflictos, implementadas",
+                "cumplimiento": "100%",
+                "responsable": "Paz y Cultura Ciudadana"
+            },
+            {
+                "numeracion": "318",
+                "meta": "Red de defensoras y defensores populares de DDHH y construcción de paz urbana implementada",
+                "cumplimiento": "100%",
+                "responsable": "Paz y Cultura Ciudadana"
+            },
+            {
+                "numeracion": "319",
+                "meta": "Iniciativas de prevención, promoción y protección ante la feminización de la vulneración de los Derechos Humanos y del DIH, desarrolladas",
+                "cumplimiento": "100%",
+                "responsable": "Paz y Cultura Ciudadana"
+            },
+            {
+                "numeracion": "320",
+                "meta": "Ruta para la protección de las violencias individuales y colectivas contra líderes y lideresas de procesos, organizaciones y movimientos sociales",
+                "cumplimiento": "100%",
+                "responsable": "Paz y Cultura Ciudadana"
+            },
+            {
+                "numeracion": "321",
+                "meta": "Sedes de las IEO con programa de mediación escolar implementado y funcionando",
+                "cumplimiento": "100%",
+                "responsable": "Educación"
+            },
+            {
+                "numeracion": "322",
+                "meta": "Espacios intersectoriales e interinstitucionales coordinados en estrategias de corresponsabilidad y cooperación en la consolidación de la paz territorial junto con líderes territoriales",
+                "cumplimiento": "100%",
+                "responsable": "Paz y Cultura Ciudadana"
+            },
+            {
+                "numeracion": "323",
+                "meta": "Personas que incurren en comportamientos contrarios a la convivencia sensibilizadas",
+                "cumplimiento": "100%",
+                "responsable": "Seguridad y Justicia"
+            },
+            {
+                "numeracion": "324",
+                "meta": "Personas participando en la estrategia de prevención de la violencia familiar y sexual",
+                "cumplimiento": "100%",
+                "responsable": "Seguridad y Justicia"
+            },
+            {
+                "numeracion": "325",
+                "meta": "Centros de orientación familiar funcionando como estrategia para la prevención de las violencias y para el fortalecimiento de habilidades para la vida, el trabajo y la convivencia de las Familias, con el enfoque interespecie incorporado para la atención diferencial",
+                "cumplimiento": "100%",
+                "responsable": "Bienestar Social"
+            },
+            {
+                "numeracion": "326",
+                "meta": "Personas intervenidas con estrategia en salud para la promoción de la convivencia, el fortalecimiento del tejido social y el abordaje de las violencias con perspectiva de género, aumentadas",
+                "cumplimiento": "100%",
+                "responsable": "Salud"
+            },
+            {
+                "numeracion": "327",
+                "meta": "Zonas turísticas afectadas por el delito de hurto intervenidas en seguridad y convivencia",
+                "cumplimiento": "100%",
+                "responsable": "Seguridad y Justicia"
+            },
+            {
+                "numeracion": "328",
+                "meta": "Agencias de seguridad para el fortalecimiento del proceso investigativo contra el crimen, apoyadas",
+                "cumplimiento": "100%",
+                "responsable": "Seguridad y Justicia"
+            },
+            {
+                "numeracion": "329",
+                "meta": "Agencias de seguridad y justicia apoyadas en su operatividad",
+                "cumplimiento": "100%",
+                "responsable": "Seguridad y Justicia"
+            },
+            {
+                "numeracion": "330",
+                "meta": "Infraestructura de agencias de seguridad y justicia adecuadas",
+                "cumplimiento": "100%",
+                "responsable": "Seguridad y Justicia"
+            },
+            {
+                "numeracion": "331",
+                "meta": "Mesas de seguridad vecinales con enfoque de prevención situacional del delito operando",
+                "cumplimiento": "100%",
+                "responsable": "Seguridad y Justicia"
+            },
+            {
+                "numeracion": "332",
+                "meta": "Entornos de las Instituciones Educativas intervenidos con estrategia intersectorial de erradicación del microtráfico",
+                "cumplimiento": "100%",
+                "responsable": "Seguridad y Justicia"
+            },
+            {
+                "numeracion": "333",
+                "meta": "Infraestructura penitenciaria adecuada",
+                "cumplimiento": "100%",
+                "responsable": "Seguridad y Justicia"
+            },
+            {
+                "numeracion": "334",
+                "meta": "Centros de formación para menores infractores adecuados",
+                "cumplimiento": "100%",
+                "responsable": "Seguridad y Justicia"
+            },
+            {
+                "numeracion": "335",
+                "meta": "Centro de conciliación en casa de justicia funcionando",
+                "cumplimiento": "100%",
+                "responsable": "Seguridad y Justicia"
+            },
+            {
+                "numeracion": "336",
+                "meta": "Jóvenes vinculados a situaciones delictivas, intervenidos",
+                "cumplimiento": "100%",
+                "responsable": "Seguridad y Justicia"
+            },
+            {
+                "numeracion": "337",
+                "meta": "Investigaciones producidas por el observatorio de seguridad",
+                "cumplimiento": "100%",
+                "responsable": "Seguridad y Justicia"
+            },
+            {
+                "numeracion": "338",
+                "meta": "Centro de Gestión del Conocimiento y la Innovación en materia de seguridad y justicia funcionando",
+                "cumplimiento": "100%",
+                "responsable": "Seguridad y Justicia"
+            },
+            {
+                "numeracion": "339",
+                "meta": "Despachos de Acceso a la Justicia adecuados",
+                "cumplimiento": "97%",
+                "responsable": "Seguridad y Justicia"
+            },
+            {
+                "numeracion": "340",
+                "meta": "Población de adultos y adolescentes que incurren en responsabilidad penal, intervenidos con acompañamiento psicosocial y/o procesos de justicia restaurativa",
+                "cumplimiento": "96%",
+                "responsable": "Seguridad y Justicia"
+            },
+            {
+                "numeracion": "341",
+                "meta": "Sistemas de monitoreo y alerta del delito implementado",
+                "cumplimiento": "96%",
+                "responsable": "Seguridad y Justicia"
+            },
+            {
+                "numeracion": "342",
+                "meta": "Jóvenes vinculados al sistema de responsabilidad penal con restitución del derecho a la educación",
+                "cumplimiento": "79%",
+                "responsable": "Educación"
+            },
+            {
+                "numeracion": "343",
+                "meta": "Nuevos Espacios de acceso a la justicia Implementados",
+                "cumplimiento": "50%",
+                "responsable": "Seguridad y Justicia"
+            },
+            {
+                "numeracion": "344",
+                "meta": "Permisos de eventos de aglomeraciones públicas expedidos en línea",
+                "cumplimiento": "0%",
+                "responsable": "Seguridad y Justicia"
+            },
+            {
+                "numeracion": "345",
+                "meta": "Plan distrital de reincorporación y reconciliación con enfoque de género y diferencial formulado e implementado",
+                "cumplimiento": "0%",
+                "responsable": "Paz y Cultura Ciudadana"
+            },
+            {
+                "numeracion": "346",
+                "meta": "Política pública de paz y reconciliación, adoptada",
+                "cumplimiento": "0%",
+                "responsable": "Paz y Cultura Ciudadana"
+            },
+            {
+                "numeracion": "347",
+                "meta": "Política Pública de Seguridad y Convivencia Ciudadana formulada y adoptada",
+                "cumplimiento": "0%",
+                "responsable": "Seguridad y Justicia"
+            },
+            {
+                "numeracion": "348",
+                "meta": "Diseño de infraestructura carcelaria realizado",
+                "cumplimiento": "0%",
+                "responsable": "Seguridad y Justicia"
+            },
+            {
+                "numeracion": "349",
+                "meta": "Nuevos Espacios de acceso a la justicia Implementados",
+                "cumplimiento": "50%",
+                "responsable": "Seguridad y Justicia"
+            },
+            {
+                "numeracion": "350",
+                "meta": "Permisos de eventos de aglomeraciones públicas expedidos en línea",
+                "cumplimiento": "0%",
+                "responsable": "Seguridad y Justicia"
+            },
+            {
+                "numeracion": "351",
+                "meta": "Plan distrital de reincorporación y reconciliación con enfoque de género y diferencial formulado e implementado",
+                "cumplimiento": "0%",
+                "responsable": "Paz y Cultura Ciudadana"
+            },
+            {
+                "numeracion": "352",
+                "meta": "Política pública de paz y reconciliación, adoptada",
+                "cumplimiento": "0%",
+                "responsable": "Paz y Cultura Ciudadana"
+            },
+            {
+                "numeracion": "353",
+                "meta": "Política Pública de Seguridad y Convivencia Ciudadana formulada y adoptada",
+                "cumplimiento": "0%",
+                "responsable": "Seguridad y Justicia"
+            },
+            {
+                "numeracion": "354",
+                "meta": "Diseño de infraestructura carcelaria realizado",
+                "cumplimiento": "0%",
+                "responsable": "Seguridad y Justicia"
+            },
+            {
+                "numeracion": "355",
+                "meta": "Nuevos Espacios de acceso a la justicia Implementados",
+                "cumplimiento": "50%",
+                "responsable": "Seguridad y Justicia"
+            },
+            {
+                "numeracion": "356",
+                "meta": "Permisos de eventos de aglomeraciones públicas expedidos en línea",
+                "cumplimiento": "0%",
+                "responsable": "Seguridad y Justicia"
+            },
+            {
+                "numeracion": "357",
+                "meta": "Política pública de paz y reconciliación, adoptada",
+                "cumplimiento": "0%",
+                "responsable": "Paz y Cultura Ciudadana"
+            },
+            {
+                "numeracion": "358",
+                "meta": "Política Pública de Seguridad y Convivencia Ciudadana formulada y adoptada",
+                "cumplimiento": "0%",
+                "responsable": "Seguridad y Justicia"
+            }
+        ]
+    }
+]
