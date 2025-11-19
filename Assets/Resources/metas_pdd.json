@@ -531,6 +531,12 @@
                 "responsable": "EMCALI"
             },
             {
+                "numeracion": "89",
+                "meta": "Plantas de Tratamiento de Agua Residual Doméstica (PTARD) construidas en la zona rural",
+                "cumplimiento": "8%",
+                "responsable": "Servicios Públicos"
+            },
+            {
                 "numeracion": "90",
                 "meta": "Estudios y diseños de la Planta de Tratamiento de Aguas Residuales de Sur (PTAR-S) elaborados",
                 "cumplimiento": "2%",

@@ -4,10 +4,10 @@ using System.Collections;
 using System.Linq;
 using TMPro;
 
+[DefaultExecutionOrder(0)]
 public class CategoriesMenuController : MonoBehaviour
 {
     [Header("Referencias UI")]
-    RectTransform background;
     public CanvasGroup content;
     public CanvasGroup text;
     public Button[] botonesCategorias;
@@ -19,18 +19,13 @@ public class CategoriesMenuController : MonoBehaviour
     public float slideDuration = 2f;
     public float fadeDuration = 1f;
 
-    void Awake()
-    {
-        background = ScreenController.Instance.background;
-    }
-
     private void OnEnable()
     {
         content.alpha = 0;
         text.alpha = 1;
 
-        ScreenController.Instance.homeButton.GetComponent<CanvasGroup>().alpha = 0;
         ScreenController.Instance.backButton.GetComponent<CanvasGroup>().alpha = 0;
+        ScreenController.Instance.exitButton.GetComponent<CanvasGroup>().alpha = 1;        
 
         foreach (Button b in botonesCategorias)
         {
@@ -49,7 +44,7 @@ public class CategoriesMenuController : MonoBehaviour
 
     IEnumerator ShowCategorias()
     {
-        yield return TransitionManager.Instance.SlideRect(background, background.anchoredPosition, Vector2.zero, slideDuration);
+        yield return TransitionManager.Instance.SlideRect(ScreenController.Instance.background, ScreenController.Instance.background.anchoredPosition, Vector2.zero, slideDuration);
         yield return TransitionManager.Instance.FadeCanvasGroup(content, 0, 1, fadeDuration);
     }
 
@@ -85,19 +80,19 @@ public class CategoriesMenuController : MonoBehaviour
 
         Vector2 startPos = rt.anchoredPosition;
 
-        Vector3 homeButtonWorld = ScreenController.Instance.homeButton.transform.position;
-        Vector3 backButtonLocal = rt.parent.InverseTransformPoint(homeButtonWorld);
+        Vector3 exitButtonWorld = ScreenController.Instance.exitButton.transform.position;
+        Vector3 backButtonLocal = rt.parent.InverseTransformPoint(exitButtonWorld);
 
         Vector3 scrollWorldTop = rt.position;
         Vector3 scrollLocalTop = rt.parent.InverseTransformPoint(scrollWorldTop);
 
         Vector2 endPos =  new Vector2(startPos.x, startPos.y + backButtonLocal.y - scrollLocalTop.y);
 
-        StartCoroutine(TransitionManager.Instance.SlideRect(background, background.anchoredPosition, new Vector2(0, Screen.height / 2), slideDuration));
+        StartCoroutine(TransitionManager.Instance.SlideRect(ScreenController.Instance.background, ScreenController.Instance.background.anchoredPosition, new Vector2(0, Screen.height / 2), slideDuration));
         yield return TransitionManager.Instance.SlideRect(rt, startPos, endPos, slideDuration);
 
         categoriesScrollMenu.MatchStartPosition(rt, sprite, buttonScroll.GetComponentInChildren<TMP_Text>().text, indexScroll, width);
 
-        ScreenController.Instance.ShowScreen(ScreenController.Instance.pantalla4Scroll);
+        ScreenController.Instance.ShowScreen(ScreenController.Instance.pantallaScroll);
     }
 }

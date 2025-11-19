@@ -2,13 +2,24 @@ using UnityEngine;
 using UnityEngine.UI;
 using System.Collections;
 using TMPro;
+using System;
 
+[Serializable]
+public class TableSprites
+{
+    public Sprite[] sprites;
+}
+
+[DefaultExecutionOrder(0)]
 public class CategoriesDetailMenuController : MonoBehaviour
 {
     [Header("Referencias UI")]
     public CanvasGroup content;
     public RectTransform selectedButton;
     public Sprite[] spriteCategoriasDetail;
+    public RectTransform grid;
+    public Image[] selectedTable;
+    public TableSprites[] spriteTableCategoriesDetail;
     public TMP_Text area;
     public TMP_Text responsable;
     public TMP_Text meta;
@@ -23,9 +34,10 @@ public class CategoriesDetailMenuController : MonoBehaviour
     private void OnEnable()
     {
         content.alpha = 0;
-        ScreenController.Instance.homeButton.GetComponent<CanvasGroup>().alpha = 1;
         ScreenController.Instance.backButton.GetComponent<CanvasGroup>().alpha = 1;
-        ScreenController.Instance.backButton.GetComponent<Button>().onClick.AddListener(() => ScreenController.Instance.ShowScreen(ScreenController.Instance.pantalla4Scroll));
+        ScreenController.Instance.exitButton.GetComponent<CanvasGroup>().alpha = 1;
+
+        ScreenController.Instance.backButton.GetComponent<Button>().onClick.AddListener(() => ScreenController.Instance.ShowScreen(ScreenController.Instance.pantallaCategories));
         
         StartCoroutine(ShowDetail());
     }
@@ -34,7 +46,6 @@ public class CategoriesDetailMenuController : MonoBehaviour
     {
         ScreenController.Instance.backButton.GetComponent<Button>().onClick.RemoveAllListeners();
     }
-
 
     public void SetDetailTexts(SelectedMetaInfo data)
     {
@@ -70,11 +81,11 @@ public class CategoriesDetailMenuController : MonoBehaviour
             rtTextSelectedButton.sizeDelta = new Vector2(rtTextButton.rect.width, rtTextButton.rect.height);
 
             var textBounds = RectTransformUtility.CalculateRelativeRectTransformBounds(selectedButton, rtTextSelectedButton);
-            float textTopY = textBounds.max.y;              
-            float textBottomY = textBounds.min.y;           
+            float textTopY = textBounds.max.y;
+            float textBottomY = textBounds.min.y;
             float textMidY = (textTopY + textBottomY) / 2f;
 
-            float topY    = (1f - selectedButton.pivot.y) * height;
+            float topY = (1f - selectedButton.pivot.y) * height;
             float bottomY = -selectedButton.pivot.y * height;
 
             float topOffsetFromParentTop = topY - textMidY;
@@ -84,6 +95,28 @@ public class CategoriesDetailMenuController : MonoBehaviour
             if (maxHeight < 0f) maxHeight = 0f;
 
             rtContentSelectedButton.sizeDelta = new Vector2(rtContentSelectedButton.sizeDelta.x, maxHeight);
+        }
+
+        if (grid != null)
+        {
+            grid.anchoredPosition = new Vector2(grid.anchoredPosition.x, selectedButton.anchoredPosition.y - selectedButton.sizeDelta.y - 50);
+
+            Vector3 backButtonWorld = ScreenController.Instance.backButton.transform.position;
+            Vector3 backButtonLocal = grid.parent.InverseTransformPoint(backButtonWorld);
+
+            Vector3 selectedButtonWorldBottom = selectedButton.position;
+            Vector3 selectedButtonLocalBottom = grid.parent.InverseTransformPoint(selectedButtonWorldBottom);
+
+            float top = selectedButtonLocalBottom.y - selectedButton.sizeDelta.y - 50;
+            float bottom = backButtonLocal.y + ScreenController.Instance.backButton.GetComponent<RectTransform>().sizeDelta.y;
+            float availableHeight = top - bottom;
+
+            grid.sizeDelta = new Vector2(grid.sizeDelta.x, availableHeight);
+        }
+
+        for (int i = 0; i < selectedTable.Length; i++)
+        {
+            selectedTable[i].sprite = spriteTableCategoriesDetail[index].sprites[i];            
         }
     }
 

@@ -16,6 +16,7 @@ public class SelectedMetaInfo
     public string responsable;
 }
 
+[DefaultExecutionOrder(0)]
 public class CategoriesScrollMenuController : MonoBehaviour
 {
     [Header("Referencias UI")]
@@ -44,14 +45,9 @@ public class CategoriesScrollMenuController : MonoBehaviour
         content.alpha = 0;
         scrollView.alpha = 0;
 
-        ScreenController.Instance.homeButton.GetComponent<CanvasGroup>().alpha = 1;
         ScreenController.Instance.backButton.GetComponent<CanvasGroup>().alpha = 1;
-        ScreenController.Instance.backButton.GetComponent<Button>().onClick.AddListener(() => ScreenController.Instance.ShowScreen(ScreenController.Instance.pantalla3Categories));
-        
-        if (wheelScroll != null)
-        {
-            wheelScroll.ResetToFirstItem();
-        }
+        ScreenController.Instance.backButton.GetComponent<Button>().onClick.AddListener(() => ScreenController.Instance.ShowScreen(ScreenController.Instance.pantallaCategories));
+
         StartCoroutine(ShowScroll());
     }
 
@@ -72,15 +68,17 @@ public class CategoriesScrollMenuController : MonoBehaviour
             AreaData matchingArea = areas.FirstOrDefault(a => a.area.ToLower() == currentTextButton.ToLower());
             if (matchingArea != null)
             {
-                string[] items = matchingArea.datos.Select(d => d.numeracion).ToArray();
-                wheelScroll.items = items;
+                wheelScroll.items = matchingArea.datos.Select(d => d.numeracion).ToArray();
                 wheelScroll.currentArea = currentTextButton.FirstCharacterToUpper();
+                wheelScroll.onItemSelected = OnItemSelected;
+                wheelScroll.SetupItems();
             }
-
-            yield return wheelScroll.PlayScroll();
         }
+    }
 
-        selectedData = wheelScroll.selectedData;
+    private void OnItemSelected(SelectedMetaInfo data)
+    {
+        selectedData = data;
         categoriesDetailMenu.SetDetailTexts(selectedData);
 
         RectTransform rt = selectedButton.GetComponent<RectTransform>();
@@ -93,9 +91,8 @@ public class CategoriesScrollMenuController : MonoBehaviour
 
         categoriesDetailMenu.MatchStartPosition(rt, rtText, text.text, selectedData.numeracion, indexButton, width);
 
-        yield return new WaitForSeconds(1.5f);
-
-        ScreenController.Instance.ShowScreen(ScreenController.Instance.pantalla5Detail);
+        // Transition to detail screen
+        ScreenController.Instance.ShowScreen(ScreenController.Instance.pantallaDetail);
     }
 
     public void MatchStartPosition(RectTransform boton, Sprite spriteButton, string textButton, int index, float width)
@@ -125,11 +122,6 @@ public class CategoriesScrollMenuController : MonoBehaviour
             selectedButton.sizeDelta = new Vector2(width, height);
 
             selectedScroll.anchoredPosition = boton.anchoredPosition - new Vector2(0, height - 50);
-        }
-
-        if (imgSelectedScroll != null && spriteScroll != null)
-        {
-            imgSelectedScroll.sprite = spriteScroll;
 
             Vector3 backButtonWorld = ScreenController.Instance.backButton.transform.position;
             Vector3 backButtonLocal = selectedScroll.parent.InverseTransformPoint(backButtonWorld);
@@ -137,9 +129,14 @@ public class CategoriesScrollMenuController : MonoBehaviour
             Vector3 scrollWorldTop = selectedScroll.position;
             Vector3 scrollLocalTop = selectedScroll.parent.InverseTransformPoint(scrollWorldTop);
 
-            float availableHeight = scrollLocalTop.y - backButtonLocal.y;
+            float availableHeight = scrollLocalTop.y - backButtonLocal.y - ScreenController.Instance.backButton.GetComponent<RectTransform>().sizeDelta.y;
 
             selectedScroll.sizeDelta = new Vector2(width, availableHeight);
+        }
+
+        if (imgSelectedScroll != null && spriteScroll != null)
+        {
+            imgSelectedScroll.sprite = spriteScroll;            
         }
     }
 }

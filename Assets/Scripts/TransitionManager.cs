@@ -1,10 +1,13 @@
 using UnityEngine;
 using System.Collections;
+using System;
 
 [DefaultExecutionOrder(-100)]
 public class TransitionManager : MonoBehaviour
 {
     public static TransitionManager Instance { get; private set; }
+
+    public static bool isFirstBackgroundSlide = true;
 
     private void Awake()
     {
@@ -85,9 +88,14 @@ public class TransitionManager : MonoBehaviour
         // Forzar otra actualización por si sizeDelta cambió el rect
         Canvas.ForceUpdateCanvases();
 
+        // Set pivot and anchors for correct animation
+        background.pivot = new Vector2(0.5f, 0.5f);
+        background.anchorMin = new Vector2(0, 0.5f);
+        background.anchorMax = new Vector2(1, 0.5f);
+
         // --- Calcular posiciones en UNIDADES DE CANVAS ---
         float screenHeightCanvas = Screen.height / canvasScale;
-        float fondoHeight = background.rect.height; // ya está en unidades de canvas
+        float fondoHeight = background.sizeDelta.y; // ya está en unidades de canvas
 
         // start: borde inferior del background en borde inferior de la pantalla
         float startY = (-screenHeightCanvas / 2f) + (fondoHeight / 2f);
@@ -95,14 +103,15 @@ public class TransitionManager : MonoBehaviour
         // target: borde superior del background en borde superior de la pantalla
         float targetY = (screenHeightCanvas / 2f) - (fondoHeight / 2f);
 
-        Vector2 startPos = new Vector2(0, startY);
-        Vector2 targetPos = new Vector2(0, targetY);
-
-        // Asegúrate que pivot esté en (0.5, 0.5) y anchors horizontales en stretch
-        // (opcional, podemos forzarlo aquí si quieres)
-        // background.pivot = new Vector2(0.5f, 0.5f);
-
+        Vector2 fromPos;
+        if (isFirstBackgroundSlide) {
+            fromPos = new Vector2(0, startY);
+            isFirstBackgroundSlide = false;
+        } else {
+            fromPos = new Vector2(0, background.anchoredPosition.y);
+        }
+        
         // --- Animación ---
-        yield return SlideRect(background, startPos, targetPos, duration);
+        yield return SlideRect(background, fromPos, new Vector2(0, targetY), duration);
     }
 }

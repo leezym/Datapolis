@@ -1,19 +1,19 @@
 using UnityEngine;
 using UnityEngine.UI;
 
+[DefaultExecutionOrder(-100)]
 public class ScreenController : MonoBehaviour
 {
     public static ScreenController Instance;
 
     [Header("Referencias a Pantallas")]
     public RectTransform background;
-    public GameObject pantalla2MainMenu;
-    public GameObject pantalla3Categories;
-    public GameObject pantalla4Scroll;
-    public GameObject pantalla5Detail;
+    public GameObject pantallaMainMenu;
+    public GameObject pantallaCategories;
+    public GameObject pantallaScroll;
+    public GameObject pantallaDetail;
 
     [Header("Referencias a Botones")]
-    public Button homeButton;
     public Button backButton;
     public Button exitButton;
 
@@ -27,7 +27,13 @@ public class ScreenController : MonoBehaviour
 
     private void Start()
     {
-        ShowScreen(pantalla2MainMenu);
+        ShowScreen(pantallaMainMenu);
+
+        exitButton.onClick.AddListener(() =>
+        {
+            SaveJsonFile();
+            ShowScreen(pantallaMainMenu);
+        });
     }
 
     public void ShowScreen(GameObject screen)

@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Datapolis.sln"
+    "dotnet.defaultSolution": "Datapolis.slnx"
 }

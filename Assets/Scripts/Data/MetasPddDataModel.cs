@@ -4,7 +4,7 @@ using System.IO;
 using System;
 
 
-[System.Serializable]
+[Serializable]
 public class MetaData
 {
     public string numeracion;
@@ -13,14 +13,14 @@ public class MetaData
     public string responsable;
 }
 
-[System.Serializable]
+[Serializable]
 public class AreaData
 {
     public string area;
     public List<MetaData> datos;
 }
 
-[System.Serializable]
+[Serializable]
 public class AreasWrapper
 {
     public List<AreaData> areas;
@@ -59,8 +59,29 @@ public class MetasPddDataModel
         }
         else
         {
-            Debug.LogWarning("JSON file not found: " + filePath + ". Initializing with empty data.");
-            data = new List<AreaData>();
+            // Load from Resources
+            TextAsset textAsset = Resources.Load<TextAsset>("metas_pdd");
+            if (textAsset != null)
+            {
+                try
+                {
+                    string json = textAsset.text;
+                    AreasWrapper wrapper = JsonUtility.FromJson<AreasWrapper>("{\"areas\":" + json + "}");
+                    data = wrapper.areas ?? new List<AreaData>();
+                    // Save to persistent
+                    SaveData();
+                }
+                catch (System.Exception e)
+                {
+                    Debug.LogError("Error loading JSON from Resources: " + e.Message);
+                    data = new List<AreaData>();
+                }
+            }
+            else
+            {
+                Debug.LogWarning("JSON file not found in Resources. Initializing with empty data.");
+                data = new List<AreaData>();
+            }
         }
     }
 
