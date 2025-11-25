@@ -2219,7 +2219,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
   m_AnchoredPosition: {x: 399.99997, y: -30}
-  m_SizeDelta: {x: 700, y: 200}
+  m_SizeDelta: {x: 700, y: 160}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &688870653
 MonoBehaviour:
@@ -2274,9 +2274,9 @@ MonoBehaviour:
   m_Padding:
     m_Left: 0
     m_Right: 0
-    m_Top: -45
-    m_Bottom: -20
-  m_ChildAlignment: 3
+    m_Top: 5
+    m_Bottom: 0
+  m_ChildAlignment: 0
   m_StartCorner: 0
   m_StartAxis: 0
   m_CellSize: {x: 280, y: 50}
@@ -3775,7 +3775,7 @@ MonoBehaviour:
   m_ChildForceExpandWidth: 1
   m_ChildForceExpandHeight: 1
   m_ChildControlWidth: 1
-  m_ChildControlHeight: 1
+  m_ChildControlHeight: 0
   m_ChildScaleWidth: 1
   m_ChildScaleHeight: 1
   m_ReverseArrangement: 0
@@ -6295,9 +6295,9 @@ MonoBehaviour:
   left: {fileID: 1374553393}
   right: {fileID: 1194027435}
   textos:
-  - "En <b>Datapolis</b> te conviertes en un l\xEDder politico que sue\xF1a con alcanzar
-    la alcaldia de la  ciudad de <b>Cali</b>. Para lograrlo, deber\xE1s recorrer
-    sus comunas y barrios, desplegar a tus <b>Brokers</b> -tus fichas estrat\xE9gicas-
+  - "En <b>Dat\xE1polis</b> te conviertes en un l\xEDder pol\xEDtico que sue\xF1a
+    con alcanzar la alcald\xEDa de la  ciudad de <b>Cali</b>. Para lograrlo, deber\xE1s
+    recorrer sus comunas y barrios, desplegar a tus <b>Brokers</b> -tus fichas estrat\xE9gicas-
     mientras compites por dominar  pol\xEDticamente los territorios clave de la ciudad."
   - "<b>Dise\xF1o de juego:</b> \\nIsabella Cagua\\nJuan Esteban Naranjo\\nAlejandro
     S\xE1nchez\\nLuis Carlos Ojeda\\nJacobo Uribe\\nSantiago Rubio \\n\\n <b>Dise\xF1o
